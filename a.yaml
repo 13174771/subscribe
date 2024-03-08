@@ -18,7 +18,7 @@ proxies:
     - {name: A, server: ip.sb, port: 8443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: worker.ariesver.online, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: worker.ariesver.online}}, udp: true}
     - {name: B, server: ip.sb, port: 8443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ed-1ii.pages.dev, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: ed-1ii.pages.dev}}, udp: true}
     - {name: c, server: shopify.com, port: 8443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: worker.ariesver.online, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: worker.ariesver.online}}, udp: true}
-    - {name: d, server: ip.sb, port: 8443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ed-1ii.pages.dev, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: ed-1ii.pages.dev}}, udp: true}    
+    - {name: d, server: shopify.com, port: 8443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ed-1ii.pages.dev, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: ed-1ii.pages.dev}}, udp: true}    
 proxy-providers: 
   WARP:
     type: http

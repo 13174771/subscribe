@@ -29,6 +29,15 @@ proxy-providers:
       enable: true
       url: https://www.gstatic.com/generate_204
       interval: 300
+  Q:
+    type: http
+    url: "https://cf.arosi.link/242bb2fb-e484-4b1f-9f91-8dd27e7578eb"
+    path: ./q.yaml
+    interval: 3600
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
   W:
     type: http
     url: "https://neko-warp.nloli.xyz/neko_warp.yaml"

@@ -170,20 +170,8 @@ dns:
     'rule-set:proxy': ['https://cloudflare-dns.com/dns-query#🪜 代理域名&h3=true', 'https://dns.google/dns-query#🪜 代理域名']
 
 proxies:
-  - name: 🆓 免费节点
-    type: vless
-    server: ed.haohan1.eu.org
-    port: 443
-    uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb
-    network: ws
-    tls: true
-    udp: false
-    sni: ed.haohan1.eu.org
-    client-fingerprint: chrome
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        host: ed.haohan1.eu.org
+
+    - {name: 🆓 免费节点, server: ed.haohan1.eu.org, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ed.haohan1.eu.org, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: ed.haohan1.eu.org}}, udp: true}
 
 proxy-groups:
   - {name: 🚀 节点选择, type: select, proxies: [🇭🇰 香港节点, 🆓 免费节点, 🇹🇼 台湾节点, 🇯🇵 日本节点, 🇰🇷 韩国节点, 🇸🇬 新加坡节点, 🇺🇸 美国节点]}

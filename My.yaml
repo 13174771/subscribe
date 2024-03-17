@@ -172,7 +172,7 @@ dns:
 proxies:
   - name: 🆓 免费节点
     type: vless
-    server: shopify.com
+    server: worker.ariesver.online
     port: 443
     uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb
     network: ws

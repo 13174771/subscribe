@@ -172,18 +172,18 @@ dns:
 proxies:
   - name: 🆓 免费节点
     type: vless
-    server: worker.ariesver.online
+    server: ed.haohan1.eu.org
     port: 443
     uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb
     network: ws
     tls: true
     udp: false
-    sni: worker.ariesver.online
+    sni: ed.haohan1.eu.org
     client-fingerprint: chrome
     ws-opts:
       path: "/?ed=2048"
       headers:
-        host: worker.ariesver.online
+        host: ed.haohan1.eu.org
 
 proxy-groups:
   - {name: 🚀 节点选择, type: select, proxies: [🇭🇰 香港节点, 🆓 免费节点, 🇹🇼 台湾节点, 🇯🇵 日本节点, 🇰🇷 韩国节点, 🇸🇬 新加坡节点, 🇺🇸 美国节点]}

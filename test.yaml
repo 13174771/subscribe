@@ -2,7 +2,7 @@ proxy-providers:
   🛫 我的机场:
     type: http
     # 修改为你的 Clash 订阅链接
-    url: "https://cf.arosi.link/242bb2fb-e484-4b1f-9f91-8dd27e7578eb"
+    url: "https://sub.xf.free.hr/auto?host=cf.ariesver.online&uuid=73b6dbd5-a27a-4c76-9ad1-42a82380dddb&path=/?ed=2048"
     path: ./proxies/airport.yaml
     interval: 43200
     filter: "香港|台湾|日本|韩国|新加坡|美国"
@@ -172,18 +172,18 @@ dns:
 proxies:
   - name: 🆓 免费节点
     type: vless
-    server: cf.arosi.link
+    server: cf.ariesver.online
     port: 443
-    uuid: 242bb2fb-e484-4b1f-9f91-8dd27e7578eb
+    uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb
     network: ws
     tls: true
     udp: false
-    sni: cf.arosi.link
+    sni: cf.ariesver.online
     client-fingerprint: chrome
     ws-opts:
       path: "/?ed=2048"
       headers:
-        host: cf.arosi.link
+        host: cf.ariesver.online
 
 proxy-groups:
   - {name: 🚀 节点选择, type: select, proxies: [🇭🇰 香港节点, 🆓 免费节点, 🇹🇼 台湾节点, 🇯🇵 日本节点, 🇰🇷 韩国节点, 🇸🇬 新加坡节点, 🇺🇸 美国节点]}

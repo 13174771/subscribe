@@ -2,7 +2,7 @@ proxy-providers:
   🛫 我的机场:
     type: http
     # 修改为你的 Clash 订阅链接
-    url: "https://sub.xf.free.hr/auto?host=cf.ariesver.online&uuid=73b6dbd5-a27a-4c76-9ad1-42a82380dddb&path=/?ed=2048"
+    url: "https://cf.ariesver.online/73b6dbd5-a27a-4c76-9ad1-42a82380dddb"
     path: ./proxies/airport.yaml
     interval: 43200
     filter: "香港|台湾|日本|韩国|新加坡|美国"

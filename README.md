@@ -12,11 +12,11 @@ cloudflare邮箱：yuanwangokk@proton.me
 
 Clash meta 订阅链接：
 
-https://mirror.ghproxy.com/https://github.com/yuanwangokk-1/subscribe/blob/main/a.yaml
+https://mirror.ghproxy.com/https://github.com/yuanwangokk-1/subscribe/raw/main/a.yaml
 
 SingBox 订阅链接：
 
-https://mirror.ghproxy.com/https://github.com/yuanwangokk-1/subscribe/blob/main/b.json
+https://mirror.ghproxy.com/https://github.com/yuanwangokk-1/subscribe/raw/main/b.json
 
 =====================================================
 

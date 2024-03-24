@@ -407,7 +407,7 @@
           "Host": "worker.ariesver.online"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+        "max_early_data": 2560
       }
     }
   ],

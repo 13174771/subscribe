@@ -5,27 +5,27 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: cf.ariesver.online, server: cf.ariesver.online, port: 443, client-fingerprint: randomized, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, servername: cf.ariesver.online, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: cf.ariesver.online}}, udp: true}
+  - {name: 免流, server: 74.48.151.91, port: 80, client-fingerprint: chrome, type: vless, uuid: b293e899-1be7-45c0-d0d4-72e62179c78d, tls: false, tfo: false, servername: 74.48.151.91, skip-cert-verify: true, network: ws, ws-opts: {path: /arise, headers: {Host: 74.48.151.91}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - cf.ariesver.online
+      - 免流
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - cf.ariesver.online
+      - 免流
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - cf.ariesver.online
+      - 免流
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -44,7 +44,7 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - cf.ariesver.online
+      - 免流
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -55,20 +55,20 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - cf.ariesver.online
+      - 免流
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - cf.ariesver.online
+      - 免流
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - cf.ariesver.online
+      - 免流
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -84,7 +84,7 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - cf.ariesver.online
+      - 免流
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve

@@ -387,7 +387,7 @@
     {
       "tag": "worker.ariesver.online",
       "type": "vless",
-      "server": "ip.skk.moe",
+      "server": "www.baipiao.eu.org",
       "server_port": 443,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",

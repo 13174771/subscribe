@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: worker.ariesver.online, server: time.is, port: 443, client-fingerprint: randomized, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, servername: worker.ariesver.online, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: worker.ariesver.online}}, udp: true}
+  - {name: worker.ariesver.online, server: ip.skk.moe, port: 443, client-fingerprint: randomized, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, servername: worker.ariesver.online, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: worker.ariesver.online}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select

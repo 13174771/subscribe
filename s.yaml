@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 免流, server: 47.243.42.219, port: 443, client-fingerprint: randomized, type: vless, uuid: b293e899-1be7-45c0-d0d4-72e62179c78d, tls: true, tfo: false, servername: v2.ariesver.shop, skip-cert-verify: true, network: ws, ws-opts: {path: /ray, headers: {Host: v2.ariesver.shop}}, udp: true}
+  - {name: 免流, server: ip.skk.moe, port: 443, client-fingerprint: randomized, type: vless, uuid: b293e899-1be7-45c0-d0d4-72e62179c78d, tls: true, tfo: false, servername: v2.ariesver.shop, skip-cert-verify: true, network: ws, ws-opts: {path: /ray, headers: {Host: v2.ariesver.shop}}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select

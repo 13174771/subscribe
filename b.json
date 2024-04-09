@@ -105,84 +105,84 @@
       "outbounds": [
         "auto",
         "direct",
-        "worker.ariesver.online-HTTP-80",
-        "worker.ariesver.online-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-80 2",
-        "worker.ariesver.online-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-80 3",
-        "worker.ariesver.online-HTTP-80-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-8080",
-        "worker.ariesver.online-HTTP-8080-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-8080 2",
-        "worker.ariesver.online-HTTP-8080-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-8080 3",
-        "worker.ariesver.online-HTTP-8080-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-8880",
-        "worker.ariesver.online-HTTP-8880-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-8880 2",
-        "worker.ariesver.online-HTTP-8880-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-8880 3",
-        "worker.ariesver.online-HTTP-8880-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-2052",
-        "worker.ariesver.online-HTTP-2052-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2052 2",
-        "worker.ariesver.online-HTTP-2052-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2052 3",
-        "worker.ariesver.online-HTTP-2052-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-2086",
-        "worker.ariesver.online-HTTP-2086-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2086 2",
-        "worker.ariesver.online-HTTP-2086-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2086 3",
-        "worker.ariesver.online-HTTP-2086-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-2095",
-        "worker.ariesver.online-HTTP-2095-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2095 2",
-        "worker.ariesver.online-HTTP-2095-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2095 3",
-        "worker.ariesver.online-HTTP-2095-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-2082",
-        "worker.ariesver.online-HTTP-2082-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2082 2",
-        "worker.ariesver.online-HTTP-2082-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2082 3",
-        "worker.ariesver.online-HTTP-2082-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-443",
-        "worker.ariesver.online-HTTPS-443-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-443 2",
-        "worker.ariesver.online-HTTPS-443-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-443 3",
-        "worker.ariesver.online-HTTPS-443-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-8443",
-        "worker.ariesver.online-HTTPS-8443-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-8443 2",
-        "worker.ariesver.online-HTTPS-8443-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-8443 3",
-        "worker.ariesver.online-HTTPS-8443-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-2053",
-        "worker.ariesver.online-HTTPS-2053-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2053 2",
-        "worker.ariesver.online-HTTPS-2053-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2053 3",
-        "worker.ariesver.online-HTTPS-2053-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-2096",
-        "worker.ariesver.online-HTTPS-2096-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2096 2",
-        "worker.ariesver.online-HTTPS-2096-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2096 3",
-        "worker.ariesver.online-HTTPS-2096-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-2087",
-        "worker.ariesver.online-HTTPS-2087-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2087 2",
-        "worker.ariesver.online-HTTPS-2087-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2087 3",
-        "worker.ariesver.online-HTTPS-2087-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-2083",
-        "worker.ariesver.online-HTTPS-2083-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2083 2",
-        "worker.ariesver.online-HTTPS-2083-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2083 3",
-        "worker.ariesver.online-HTTPS-2083-workers.cloudflare.cyou-EDtunnel"
+        "ws.yuanwangokk.dynv6.net-HTTP-80",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-80 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-80 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-workers.cloudflare.cyou-EDtunnel"
       ]
     },
     {
@@ -435,84 +435,84 @@
       "tag": "Others",
       "type": "selector",
       "outbounds": [
-        "worker.ariesver.online-HTTP-80",
-        "worker.ariesver.online-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-80 2",
-        "worker.ariesver.online-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-80 3",
-        "worker.ariesver.online-HTTP-80-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-8080",
-        "worker.ariesver.online-HTTP-8080-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-8080 2",
-        "worker.ariesver.online-HTTP-8080-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-8080 3",
-        "worker.ariesver.online-HTTP-8080-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-8880",
-        "worker.ariesver.online-HTTP-8880-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-8880 2",
-        "worker.ariesver.online-HTTP-8880-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-8880 3",
-        "worker.ariesver.online-HTTP-8880-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-2052",
-        "worker.ariesver.online-HTTP-2052-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2052 2",
-        "worker.ariesver.online-HTTP-2052-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2052 3",
-        "worker.ariesver.online-HTTP-2052-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-2086",
-        "worker.ariesver.online-HTTP-2086-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2086 2",
-        "worker.ariesver.online-HTTP-2086-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2086 3",
-        "worker.ariesver.online-HTTP-2086-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-2095",
-        "worker.ariesver.online-HTTP-2095-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2095 2",
-        "worker.ariesver.online-HTTP-2095-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2095 3",
-        "worker.ariesver.online-HTTP-2095-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-2082",
-        "worker.ariesver.online-HTTP-2082-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2082 2",
-        "worker.ariesver.online-HTTP-2082-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2082 3",
-        "worker.ariesver.online-HTTP-2082-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-443",
-        "worker.ariesver.online-HTTPS-443-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-443 2",
-        "worker.ariesver.online-HTTPS-443-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-443 3",
-        "worker.ariesver.online-HTTPS-443-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-8443",
-        "worker.ariesver.online-HTTPS-8443-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-8443 2",
-        "worker.ariesver.online-HTTPS-8443-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-8443 3",
-        "worker.ariesver.online-HTTPS-8443-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-2053",
-        "worker.ariesver.online-HTTPS-2053-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2053 2",
-        "worker.ariesver.online-HTTPS-2053-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2053 3",
-        "worker.ariesver.online-HTTPS-2053-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-2096",
-        "worker.ariesver.online-HTTPS-2096-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2096 2",
-        "worker.ariesver.online-HTTPS-2096-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2096 3",
-        "worker.ariesver.online-HTTPS-2096-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-2087",
-        "worker.ariesver.online-HTTPS-2087-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2087 2",
-        "worker.ariesver.online-HTTPS-2087-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2087 3",
-        "worker.ariesver.online-HTTPS-2087-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-2083",
-        "worker.ariesver.online-HTTPS-2083-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2083 2",
-        "worker.ariesver.online-HTTPS-2083-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2083 3",
-        "worker.ariesver.online-HTTPS-2083-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-80",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-80 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-80 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-workers.cloudflare.cyou-EDtunnel",
         "proxy"
       ]
     },
@@ -520,84 +520,84 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "worker.ariesver.online-HTTP-80",
-        "worker.ariesver.online-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-80 2",
-        "worker.ariesver.online-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-80 3",
-        "worker.ariesver.online-HTTP-80-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-8080",
-        "worker.ariesver.online-HTTP-8080-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-8080 2",
-        "worker.ariesver.online-HTTP-8080-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-8080 3",
-        "worker.ariesver.online-HTTP-8080-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-8880",
-        "worker.ariesver.online-HTTP-8880-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-8880 2",
-        "worker.ariesver.online-HTTP-8880-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-8880 3",
-        "worker.ariesver.online-HTTP-8880-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-2052",
-        "worker.ariesver.online-HTTP-2052-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2052 2",
-        "worker.ariesver.online-HTTP-2052-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2052 3",
-        "worker.ariesver.online-HTTP-2052-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-2086",
-        "worker.ariesver.online-HTTP-2086-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2086 2",
-        "worker.ariesver.online-HTTP-2086-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2086 3",
-        "worker.ariesver.online-HTTP-2086-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-2095",
-        "worker.ariesver.online-HTTP-2095-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2095 2",
-        "worker.ariesver.online-HTTP-2095-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2095 3",
-        "worker.ariesver.online-HTTP-2095-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTP-2082",
-        "worker.ariesver.online-HTTP-2082-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2082 2",
-        "worker.ariesver.online-HTTP-2082-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTP-2082 3",
-        "worker.ariesver.online-HTTP-2082-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-443",
-        "worker.ariesver.online-HTTPS-443-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-443 2",
-        "worker.ariesver.online-HTTPS-443-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-443 3",
-        "worker.ariesver.online-HTTPS-443-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-8443",
-        "worker.ariesver.online-HTTPS-8443-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-8443 2",
-        "worker.ariesver.online-HTTPS-8443-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-8443 3",
-        "worker.ariesver.online-HTTPS-8443-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-2053",
-        "worker.ariesver.online-HTTPS-2053-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2053 2",
-        "worker.ariesver.online-HTTPS-2053-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2053 3",
-        "worker.ariesver.online-HTTPS-2053-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-2096",
-        "worker.ariesver.online-HTTPS-2096-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2096 2",
-        "worker.ariesver.online-HTTPS-2096-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2096 3",
-        "worker.ariesver.online-HTTPS-2096-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-2087",
-        "worker.ariesver.online-HTTPS-2087-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2087 2",
-        "worker.ariesver.online-HTTPS-2087-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2087 3",
-        "worker.ariesver.online-HTTPS-2087-workers.cloudflare.cyou-EDtunnel",
-        "worker.ariesver.online-HTTPS-2083",
-        "worker.ariesver.online-HTTPS-2083-cdn.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2083 2",
-        "worker.ariesver.online-HTTPS-2083-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "worker.ariesver.online-HTTPS-2083 3",
-        "worker.ariesver.online-HTTPS-2083-workers.cloudflare.cyou-EDtunnel"
+        "ws.yuanwangokk.dynv6.net-HTTP-80",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-80 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-80 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-workers.cloudflare.cyou-EDtunnel"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -616,9 +616,9 @@
       "tag": "block"
     },
     {
-      "tag": "worker.ariesver.online-HTTP-80",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 80,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -626,14 +626,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn.xn--b6gac.eu.org",
       "server_port": 80,
@@ -643,16 +643,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-80 2",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80 2",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 80,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -660,14 +660,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn-all.xn--b6gac.eu.org",
       "server_port": 80,
@@ -677,16 +677,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-80 3",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80 3",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 80,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -694,14 +694,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-80-workers.cloudflare.cyou-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80-workers.cloudflare.cyou-EDtunnel",
       "type": "vless",
       "server": "workers.cloudflare.cyou",
       "server_port": 80,
@@ -711,16 +711,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-8080",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 8080,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -728,14 +728,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-8080-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn.xn--b6gac.eu.org",
       "server_port": 8080,
@@ -745,16 +745,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-8080 2",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080 2",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 8080,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -762,14 +762,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-8080-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn-all.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn-all.xn--b6gac.eu.org",
       "server_port": 8080,
@@ -779,16 +779,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-8080 3",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080 3",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 8080,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -796,14 +796,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-8080-workers.cloudflare.cyou-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080-workers.cloudflare.cyou-EDtunnel",
       "type": "vless",
       "server": "workers.cloudflare.cyou",
       "server_port": 8080,
@@ -813,16 +813,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-8880",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 8880,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -830,14 +830,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-8880-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn.xn--b6gac.eu.org",
       "server_port": 8880,
@@ -847,16 +847,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-8880 2",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880 2",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 8880,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -864,14 +864,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-8880-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn-all.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn-all.xn--b6gac.eu.org",
       "server_port": 8880,
@@ -881,16 +881,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-8880 3",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880 3",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 8880,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -898,14 +898,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-8880-workers.cloudflare.cyou-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880-workers.cloudflare.cyou-EDtunnel",
       "type": "vless",
       "server": "workers.cloudflare.cyou",
       "server_port": 8880,
@@ -915,16 +915,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2052",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2052,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -932,14 +932,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2052-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn.xn--b6gac.eu.org",
       "server_port": 2052,
@@ -949,16 +949,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2052 2",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052 2",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2052,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -966,14 +966,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2052-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn-all.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn-all.xn--b6gac.eu.org",
       "server_port": 2052,
@@ -983,16 +983,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2052 3",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052 3",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2052,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -1000,14 +1000,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2052-workers.cloudflare.cyou-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052-workers.cloudflare.cyou-EDtunnel",
       "type": "vless",
       "server": "workers.cloudflare.cyou",
       "server_port": 2052,
@@ -1017,16 +1017,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2086",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2086,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -1034,14 +1034,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2086-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn.xn--b6gac.eu.org",
       "server_port": 2086,
@@ -1051,16 +1051,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2086 2",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086 2",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2086,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -1068,14 +1068,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2086-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn-all.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn-all.xn--b6gac.eu.org",
       "server_port": 2086,
@@ -1085,16 +1085,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2086 3",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086 3",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2086,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -1102,14 +1102,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2086-workers.cloudflare.cyou-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086-workers.cloudflare.cyou-EDtunnel",
       "type": "vless",
       "server": "workers.cloudflare.cyou",
       "server_port": 2086,
@@ -1119,16 +1119,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2095",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2095,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -1136,14 +1136,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2095-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn.xn--b6gac.eu.org",
       "server_port": 2095,
@@ -1153,16 +1153,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2095 2",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095 2",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2095,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -1170,14 +1170,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2095-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn-all.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn-all.xn--b6gac.eu.org",
       "server_port": 2095,
@@ -1187,16 +1187,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2095 3",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095 3",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2095,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -1204,14 +1204,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2095-workers.cloudflare.cyou-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095-workers.cloudflare.cyou-EDtunnel",
       "type": "vless",
       "server": "workers.cloudflare.cyou",
       "server_port": 2095,
@@ -1221,16 +1221,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2082",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2082,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -1238,14 +1238,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2082-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn.xn--b6gac.eu.org",
       "server_port": 2082,
@@ -1255,16 +1255,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2082 2",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082 2",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2082,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -1272,14 +1272,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2082-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn-all.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn-all.xn--b6gac.eu.org",
       "server_port": 2082,
@@ -1289,16 +1289,16 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2082 3",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082 3",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2082,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -1306,14 +1306,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTP-2082-workers.cloudflare.cyou-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082-workers.cloudflare.cyou-EDtunnel",
       "type": "vless",
       "server": "workers.cloudflare.cyou",
       "server_port": 2082,
@@ -1323,23 +1323,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-443",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 443,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1349,14 +1349,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-443-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn.xn--b6gac.eu.org",
       "server_port": 443,
@@ -1365,7 +1365,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1375,23 +1375,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-443 2",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443 2",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 443,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1401,14 +1401,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-443-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn-all.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn-all.xn--b6gac.eu.org",
       "server_port": 443,
@@ -1417,7 +1417,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1427,23 +1427,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-443 3",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443 3",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 443,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1453,14 +1453,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-443-workers.cloudflare.cyou-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443-workers.cloudflare.cyou-EDtunnel",
       "type": "vless",
       "server": "workers.cloudflare.cyou",
       "server_port": 443,
@@ -1469,7 +1469,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1479,23 +1479,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-8443",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 8443,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1505,14 +1505,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-8443-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn.xn--b6gac.eu.org",
       "server_port": 8443,
@@ -1521,7 +1521,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1531,23 +1531,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-8443 2",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443 2",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 8443,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1557,14 +1557,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-8443-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn-all.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn-all.xn--b6gac.eu.org",
       "server_port": 8443,
@@ -1573,7 +1573,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1583,23 +1583,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-8443 3",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443 3",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 8443,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1609,14 +1609,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-8443-workers.cloudflare.cyou-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443-workers.cloudflare.cyou-EDtunnel",
       "type": "vless",
       "server": "workers.cloudflare.cyou",
       "server_port": 8443,
@@ -1625,7 +1625,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1635,23 +1635,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2053",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2053,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1661,14 +1661,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2053-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn.xn--b6gac.eu.org",
       "server_port": 2053,
@@ -1677,7 +1677,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1687,23 +1687,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2053 2",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053 2",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2053,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1713,14 +1713,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2053-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn-all.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn-all.xn--b6gac.eu.org",
       "server_port": 2053,
@@ -1729,7 +1729,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1739,23 +1739,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2053 3",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053 3",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2053,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1765,14 +1765,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2053-workers.cloudflare.cyou-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053-workers.cloudflare.cyou-EDtunnel",
       "type": "vless",
       "server": "workers.cloudflare.cyou",
       "server_port": 2053,
@@ -1781,7 +1781,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1791,23 +1791,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2096",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2096,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1817,14 +1817,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2096-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn.xn--b6gac.eu.org",
       "server_port": 2096,
@@ -1833,7 +1833,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1843,23 +1843,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2096 2",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096 2",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2096,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1869,14 +1869,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2096-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn-all.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn-all.xn--b6gac.eu.org",
       "server_port": 2096,
@@ -1885,7 +1885,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1895,23 +1895,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2096 3",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096 3",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2096,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1921,14 +1921,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2096-workers.cloudflare.cyou-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096-workers.cloudflare.cyou-EDtunnel",
       "type": "vless",
       "server": "workers.cloudflare.cyou",
       "server_port": 2096,
@@ -1937,7 +1937,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1947,23 +1947,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2087",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2087,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1973,14 +1973,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2087-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn.xn--b6gac.eu.org",
       "server_port": 2087,
@@ -1989,7 +1989,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1999,23 +1999,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2087 2",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087 2",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2087,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -2025,14 +2025,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2087-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn-all.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn-all.xn--b6gac.eu.org",
       "server_port": 2087,
@@ -2041,7 +2041,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -2051,23 +2051,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2087 3",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087 3",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2087,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -2077,14 +2077,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2087-workers.cloudflare.cyou-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087-workers.cloudflare.cyou-EDtunnel",
       "type": "vless",
       "server": "workers.cloudflare.cyou",
       "server_port": 2087,
@@ -2093,7 +2093,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -2103,23 +2103,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2083",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2083,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -2129,14 +2129,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2083-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn.xn--b6gac.eu.org",
       "server_port": 2083,
@@ -2145,7 +2145,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -2155,23 +2155,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2083 2",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083 2",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2083,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -2181,14 +2181,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2083-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn-all.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
       "server": "cdn-all.xn--b6gac.eu.org",
       "server_port": 2083,
@@ -2197,7 +2197,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -2207,23 +2207,23 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2083 3",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083 3",
       "type": "vless",
-      "server": "worker.ariesver.online",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2083,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -2233,14 +2233,14 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "worker.ariesver.online-HTTPS-2083-workers.cloudflare.cyou-EDtunnel",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083-workers.cloudflare.cyou-EDtunnel",
       "type": "vless",
       "server": "workers.cloudflare.cyou",
       "server_port": 2083,
@@ -2249,7 +2249,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "worker.ariesver.online",
+        "server_name": "ws.yuanwangokk.dynv6.net",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -2259,7 +2259,7 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "worker.ariesver.online"
+          "Host": "ws.yuanwangokk.dynv6.net"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048

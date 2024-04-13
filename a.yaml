@@ -7,202 +7,128 @@ external-controller: :9090
 dns:
   enabled: true
   nameserver:
-    - 119.29.29.29
-    - 223.5.5.5
+    - https://doh.pub/dns-query
+    - https://223.5.5.5/dns-query
+    - https://doh.360.cn/dns-query
+    - https://dns.alidns.com/dns-query
   fallback:
     - 8.8.8.8
     - 8.8.4.4
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {name: 加入我的频道t.me/CMLiussss解锁更多优选节点, server: cf.090227.xyz, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇰🇷 KR, server: 132.145.83.155, port: 33799, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇰🇷 KR 2, server: 152.70.249.67, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇹🇼 TW, server: 211.22.240.107, port: 36373, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇺🇸 US, server: 192.18.134.22, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇰🇷 KR 3, server: 132.145.93.198, port: 2083, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇺🇸 US 2, server: 150.230.47.17, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇺🇸 US 3, server: 152.70.123.225, port: 8443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇺🇸 US 4, server: 192.18.141.9, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇺🇸 US 5, server: 192.9.138.241, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CH, server: 51.107.6.231, port: 8443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CH 2, server: 51.107.6.220, port: 8443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇺🇸 US 6, server: 185.148.15.56, port: 58232, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇺🇸 US 7, server: 23.105.205.181, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇩🇪 DE, server: 141.147.61.116, port: 2053, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇺🇸 US 8, server: 154.17.17.51, port: 14228, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇳🇱 NL, server: 146.70.175.162, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇭🇰 HK, server: 154.3.38.122, port: 37610, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇭🇰 HK 2, server: 47.243.173.187, port: 2053, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇭🇰 HK 3, server: 47.242.59.216, port: 2053, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇭🇰 HK 4, server: 47.242.187.38, port: 34237, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇭🇰 HK 5, server: 47.243.173.187, port: 2087, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇭🇰 HK 6, server: 47.243.173.187, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇭🇰 HK 7, server: 47.243.173.187, port: 2096, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇭🇰 HK 8, server: 47.243.173.187, port: 2083, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇯🇵 JP, server: 47.74.35.187, port: 8443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇯🇵 JP 2, server: 47.245.8.185, port: 2096, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇯🇵 JP 3, server: 176.119.148.151, port: 52137, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇯🇵 JP 4, server: 47.91.18.207, port: 2096, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇯🇵 JP 5, server: 47.245.57.38, port: 2087, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇯🇵 JP 6, server: 47.245.57.38, port: 8443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇯🇵 JP 7, server: 47.245.57.38, port: 2053, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇯🇵 JP 8, server: 47.245.57.38, port: 2083, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇯🇵 JP 9, server: 45.66.128.116, port: 48368, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇯🇵 JP 10, server: 45.66.130.112, port: 47117, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇸🇬 SG, server: 8.219.65.170, port: 34237, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇸🇬 SG 2, server: 138.2.68.200, port: 57866, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇭🇰 HK 9, server: 103.247.29.208, port: 30040, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇭🇰 HK 10, server: 103.218.243.226, port: 34237, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇰🇷 KR 4, server: 59.26.152.219, port: 39742, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇰🇷 KR 5, server: 1.212.148.252, port: 30005, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇰🇷 KR 6, server: 203.252.131.108, port: 45039, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇰🇷 KR 7, server: 1.241.218.157, port: 10013, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇺🇸 US 9, server: 65.75.194.2, port: 34237, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇺🇸 US 10, server: 65.75.192.30, port: 34237, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇺🇸 US 11, server: 202.91.35.39, port: 448, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: 🇺🇸 US 12, server: 144.202.86.226, port: 18065, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CT, server: 181.214.1.235, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CT 2, server: 45.80.111.179, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CT 3, server: 147.78.140.242, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CT 4, server: 147.78.140.66, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CT 5, server: 185.148.104.230, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CT 6, server: 94.140.0.62, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CT 7, server: 147.185.161.109, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CT 8, server: 194.152.44.153, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CMCC-IPV6, server: 2606:4700:3036:98fc:702:3db4:346a:144f, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CMCC-IPV6 2, server: 2606:4700:3032:2466:2ca8:e994:dd4:ab56, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CMCC-IPV6 3, server: 2a06:98c1:3123:22d8:b15d:e585:96d7:cfcf, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CMCC-IPV6 4, server: 2606:4700:3037:393e:7d82:7d70:eaa6:11fc, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CMCC-IPV6 5, server: 2606:4700:3034:20:4724:55fe:1b5b:2d85, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CMCC-IPV6 6, server: 2606:4700:3030:8667:90ce:4cfc:af74:51a8, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CMCC-IPV6 7, server: 2606:4700:3035:86:caca:5e2e:6f9e:69a0, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
-  - {name: CMCC-IPV6 8, server: 2606:4700:3033:0:f221:38bb:3923:1efb, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: shadowsocks.ariesver.shop, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: shadowsocks.ariesver.shop}}, udp: true}
+  - {name: 节点使用教程/guide https://t.me/edtunnel/7462, server: c.xf.free.hr, port: 2087, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: Channel https://t.me/edtunnel anycast, server: c.xf.free.hr, port: 2087, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 HK-Google Cloud, server: 35.215.166.189, port: 10014, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 HK-45102-Alibaba, server: 8.218.201.73, port: 2083, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇹🇼 TW-Google Cloud, server: 34.81.231.217, port: 4443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇸🇬 SG-Microsoft Azure, server: 20.6.32.20, port: 4431, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇯🇵 JP-xTom, server: 176.126.114.97, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇰🇷 KR-Oracle Cloud, server: 129.154.212.181, port: 20309, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇺🇸 US-Fiber-logic, server: 80.251.217.61, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 HK-San Jose-SJC 1, server: 8.212.41.98, port: 8080, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: false, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 HK-Hong Kong-HKG 2, server: 8.218.158.94, port: 2095, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: false, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 HK-Hong Kong-HKG 3, server: 47.243.173.187, port: 2052, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: false, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 HK-Hong Kong-HKG 4, server: 8.218.207.169, port: 2086, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: false, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 HK-Hong Kong-HKG 5, server: 8.217.164.10, port: 2095, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: false, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 HK-Hong Kong-HKG 7, server: 8.217.85.14, port: 2082, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: false, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 HK-Hong Kong-HKG 8, server: 8.218.8.142, port: 8080, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: false, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 HK-Hong Kong-HKG 9, server: 47.242.59.216, port: 2082, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: false, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 HK-San Jose-SJC 11, server: 47.57.245.232, port: 80, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: false, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 HK-Hong Kong-HKG 12, server: 8.212.12.98, port: 80, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: false, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 HK-Hong Kong-HKG 13, server: 8.218.146.204, port: 2082, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: false, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 HK-Hong Kong-HKG 15, server: 8.217.147.230, port: 2052, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: false, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 HK-Hong Kong-HKG 17, server: 8.218.48.92, port: 8880, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: false, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 HK-Hong Kong-HKG 28, server: 8.217.91.121, port: 2052, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: false, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: Los Angeles-LAX-AS3462-Chunghwa Telecom, server: 211.75.74.232, port: 4443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: Kaohsiung City-KHH-AS3462-Chunghwa Telecom, server: 125.229.230.180, port: 28233, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: Los Angeles-LAX-AS25820-IT7 Networks Inc, server: 95.169.25.127, port: 26705, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 Hong Kong-HKG-AS45102-Alibaba, server: 8.218.207.169, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: Seoul-ICN-AS31898-Oracle Cloud, server: 132.145.95.170, port: 39637, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇯🇵 Osaka-KIX-AS25820-IT7 Networks, server: 212.50.246.202, port: 13703, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
+  - {name: 🇸🇬 Singapore-SIN-AS132203-Tencent cloud computing, server: 43.153.208.195, port: 26306, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: true, servername: ws.yuanwangokk.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: ws.yuanwangokk.dynv6.net}}, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
-      - 🔯 故障转移
       - 🇭🇰 香港节点
-      - 🇹🇼 台湾节点
+      - 🇨🇳 台湾节点
       - 🇸🇬 狮城节点
       - 🇯🇵 日本节点
       - 🇺🇲 美国节点
       - 🇰🇷 韩国节点
-      - 📶 官方优选
-      - ☑️ 手动切换
+      - 🚀 手动切换
       - DIRECT
-  - name: ☑️ 手动切换
+  - name: 🚀 手动切换
     type: select
     proxies:
-      - 加入我的频道t.me/CMLiussss解锁更多优选节点
-      - 🇰🇷 KR
-      - 🇰🇷 KR 2
-      - 🇹🇼 TW
-      - 🇺🇸 US
-      - 🇰🇷 KR 3
-      - 🇺🇸 US 2
-      - 🇺🇸 US 3
-      - 🇺🇸 US 4
-      - 🇺🇸 US 5
-      - CH
-      - CH 2
-      - 🇺🇸 US 6
-      - 🇺🇸 US 7
-      - 🇩🇪 DE
-      - 🇺🇸 US 8
-      - 🇳🇱 NL
-      - 🇭🇰 HK
-      - 🇭🇰 HK 2
-      - 🇭🇰 HK 3
-      - 🇭🇰 HK 4
-      - 🇭🇰 HK 5
-      - 🇭🇰 HK 6
-      - 🇭🇰 HK 7
-      - 🇭🇰 HK 8
-      - 🇯🇵 JP
-      - 🇯🇵 JP 2
-      - 🇯🇵 JP 3
-      - 🇯🇵 JP 4
-      - 🇯🇵 JP 5
-      - 🇯🇵 JP 6
-      - 🇯🇵 JP 7
-      - 🇯🇵 JP 8
-      - 🇯🇵 JP 9
-      - 🇯🇵 JP 10
-      - 🇸🇬 SG
-      - 🇸🇬 SG 2
-      - 🇭🇰 HK 9
-      - 🇭🇰 HK 10
-      - 🇰🇷 KR 4
-      - 🇰🇷 KR 5
-      - 🇰🇷 KR 6
-      - 🇰🇷 KR 7
-      - 🇺🇸 US 9
-      - 🇺🇸 US 10
-      - 🇺🇸 US 11
-      - 🇺🇸 US 12
-      - CT
-      - CT 2
-      - CT 3
-      - CT 4
-      - CT 5
-      - CT 6
-      - CT 7
-      - CT 8
-      - CMCC-IPV6
-      - CMCC-IPV6 2
-      - CMCC-IPV6 3
-      - CMCC-IPV6 4
-      - CMCC-IPV6 5
-      - CMCC-IPV6 6
-      - CMCC-IPV6 7
-      - CMCC-IPV6 8
+      - 节点使用教程/guide https://t.me/edtunnel/7462
+      - Channel https://t.me/edtunnel anycast
+      - 🇭🇰 HK-Google Cloud
+      - 🇭🇰 HK-45102-Alibaba
+      - 🇹🇼 TW-Google Cloud
+      - 🇸🇬 SG-Microsoft Azure
+      - 🇯🇵 JP-xTom
+      - 🇰🇷 KR-Oracle Cloud
+      - 🇺🇸 US-Fiber-logic
+      - 🇭🇰 HK-San Jose-SJC 1
+      - 🇭🇰 HK-Hong Kong-HKG 2
+      - 🇭🇰 HK-Hong Kong-HKG 3
+      - 🇭🇰 HK-Hong Kong-HKG 4
+      - 🇭🇰 HK-Hong Kong-HKG 5
+      - 🇭🇰 HK-Hong Kong-HKG 7
+      - 🇭🇰 HK-Hong Kong-HKG 8
+      - 🇭🇰 HK-Hong Kong-HKG 9
+      - 🇭🇰 HK-San Jose-SJC 11
+      - 🇭🇰 HK-Hong Kong-HKG 12
+      - 🇭🇰 HK-Hong Kong-HKG 13
+      - 🇭🇰 HK-Hong Kong-HKG 15
+      - 🇭🇰 HK-Hong Kong-HKG 17
+      - 🇭🇰 HK-Hong Kong-HKG 28
+      - Los Angeles-LAX-AS3462-Chunghwa Telecom
+      - Kaohsiung City-KHH-AS3462-Chunghwa Telecom
+      - Los Angeles-LAX-AS25820-IT7 Networks Inc
+      - 🇭🇰 Hong Kong-HKG-AS45102-Alibaba
+      - Seoul-ICN-AS31898-Oracle Cloud
+      - 🇯🇵 Osaka-KIX-AS25820-IT7 Networks
+      - 🇸🇬 Singapore-SIN-AS132203-Tencent cloud computing
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇭🇰 香港节点
-      - 🇸🇬 狮城节点
-      - 🇯🇵 日本节点
-      - 🇰🇷 韩国节点
-  - name: 🔯 故障转移
-    type: fallback
-    url: http://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - 🇭🇰 香港节点
-      - 🇸🇬 狮城节点
-      - 🇯🇵 日本节点
-      - 🇰🇷 韩国节点
-  - name: 📶 官方优选
-    type: load-balance
-    strategy: consistent-hashing
-    url: http://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - 加入我的频道t.me/CMLiussss解锁更多优选节点
-      - CT
-      - CT 2
-      - CT 3
-      - CT 4
-      - CT 5
-      - CT 6
-      - CT 7
-      - CT 8
-      - CMCC-IPV6
-      - CMCC-IPV6 2
-      - CMCC-IPV6 3
-      - CMCC-IPV6 4
-      - CMCC-IPV6 5
-      - CMCC-IPV6 6
-      - CMCC-IPV6 7
-      - CMCC-IPV6 8
+      - 节点使用教程/guide https://t.me/edtunnel/7462
+      - Channel https://t.me/edtunnel anycast
+      - 🇭🇰 HK-Google Cloud
+      - 🇭🇰 HK-45102-Alibaba
+      - 🇹🇼 TW-Google Cloud
+      - 🇸🇬 SG-Microsoft Azure
+      - 🇯🇵 JP-xTom
+      - 🇰🇷 KR-Oracle Cloud
+      - 🇺🇸 US-Fiber-logic
+      - 🇭🇰 HK-San Jose-SJC 1
+      - 🇭🇰 HK-Hong Kong-HKG 2
+      - 🇭🇰 HK-Hong Kong-HKG 3
+      - 🇭🇰 HK-Hong Kong-HKG 4
+      - 🇭🇰 HK-Hong Kong-HKG 5
+      - 🇭🇰 HK-Hong Kong-HKG 7
+      - 🇭🇰 HK-Hong Kong-HKG 8
+      - 🇭🇰 HK-Hong Kong-HKG 9
+      - 🇭🇰 HK-San Jose-SJC 11
+      - 🇭🇰 HK-Hong Kong-HKG 12
+      - 🇭🇰 HK-Hong Kong-HKG 13
+      - 🇭🇰 HK-Hong Kong-HKG 15
+      - 🇭🇰 HK-Hong Kong-HKG 17
+      - 🇭🇰 HK-Hong Kong-HKG 28
+      - Los Angeles-LAX-AS3462-Chunghwa Telecom
+      - Kaohsiung City-KHH-AS3462-Chunghwa Telecom
+      - Los Angeles-LAX-AS25820-IT7 Networks Inc
+      - 🇭🇰 Hong Kong-HKG-AS45102-Alibaba
+      - Seoul-ICN-AS31898-Oracle Cloud
+      - 🇯🇵 Osaka-KIX-AS25820-IT7 Networks
+      - 🇸🇬 Singapore-SIN-AS132203-Tencent cloud computing
   - name: 📲 电报消息
     type: select
     proxies:
@@ -210,26 +136,24 @@ proxy-groups:
       - ♻️ 自动选择
       - 🇸🇬 狮城节点
       - 🇭🇰 香港节点
-      - 🇹🇼 台湾节点
+      - 🇨🇳 台湾节点
       - 🇯🇵 日本节点
       - 🇺🇲 美国节点
       - 🇰🇷 韩国节点
-      - 📶 官方优选
-      - ☑️ 手动切换
+      - 🚀 手动切换
       - DIRECT
-  - name: 🤖 OpenAi
+  - name: 💬 OpenAi
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🇸🇬 狮城节点
       - 🇭🇰 香港节点
-      - 🇹🇼 台湾节点
+      - 🇨🇳 台湾节点
       - 🇯🇵 日本节点
       - 🇺🇲 美国节点
       - 🇰🇷 韩国节点
-      - 📶 官方优选
-      - ☑️ 手动切换
+      - 🚀 手动切换
       - DIRECT
   - name: 📹 油管视频
     type: select
@@ -238,39 +162,38 @@ proxy-groups:
       - ♻️ 自动选择
       - 🇸🇬 狮城节点
       - 🇭🇰 香港节点
-      - 🇹🇼 台湾节点
+      - 🇨🇳 台湾节点
       - 🇯🇵 日本节点
       - 🇺🇲 美国节点
       - 🇰🇷 韩国节点
-      - 📶 官方优选
-      - ☑️ 手动切换
+      - 🚀 手动切换
       - DIRECT
   - name: 🎥 奈飞视频
     type: select
     proxies:
+      - 🎥 奈飞节点
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🇸🇬 狮城节点
       - 🇭🇰 香港节点
-      - 🇹🇼 台湾节点
+      - 🇨🇳 台湾节点
       - 🇯🇵 日本节点
       - 🇺🇲 美国节点
       - 🇰🇷 韩国节点
-      - 📶 官方优选
-      - ☑️ 手动切换
+      - 🚀 手动切换
       - DIRECT
   - name: 📺 巴哈姆特
     type: select
     proxies:
-      - 🇹🇼 台湾节点
+      - 🇨🇳 台湾节点
       - 🚀 节点选择
-      - ☑️ 手动切换
+      - 🚀 手动切换
       - DIRECT
   - name: 📺 哔哩哔哩
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇹🇼 台湾节点
+      - 🇨🇳 台湾节点
       - 🇭🇰 香港节点
   - name: 🌍 国外媒体
     type: select
@@ -278,23 +201,22 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🇭🇰 香港节点
-      - 🇹🇼 台湾节点
+      - 🇨🇳 台湾节点
       - 🇸🇬 狮城节点
       - 🇯🇵 日本节点
       - 🇺🇲 美国节点
       - 🇰🇷 韩国节点
-      - 📶 官方优选
-      - ☑️ 手动切换
+      - 🚀 手动切换
       - DIRECT
   - name: 🌏 国内媒体
     type: select
     proxies:
       - DIRECT
       - 🇭🇰 香港节点
-      - 🇹🇼 台湾节点
+      - 🇨🇳 台湾节点
       - 🇸🇬 狮城节点
       - 🇯🇵 日本节点
-      - ☑️ 手动切换
+      - 🚀 手动切换
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -302,12 +224,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🇺🇲 美国节点
       - 🇭🇰 香港节点
-      - 🇹🇼 台湾节点
+      - 🇨🇳 台湾节点
       - 🇸🇬 狮城节点
       - 🇯🇵 日本节点
       - 🇰🇷 韩国节点
-      - 📶 官方优选
-      - ☑️ 手动切换
+      - 🚀 手动切换
   - name: Ⓜ️ 微软Bing
     type: select
     proxies:
@@ -315,12 +236,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🇺🇲 美国节点
       - 🇭🇰 香港节点
-      - 🇹🇼 台湾节点
+      - 🇨🇳 台湾节点
       - 🇸🇬 狮城节点
       - 🇯🇵 日本节点
       - 🇰🇷 韩国节点
-      - 📶 官方优选
-      - ☑️ 手动切换
+      - 🚀 手动切换
   - name: Ⓜ️ 微软云盘
     type: select
     proxies:
@@ -328,12 +248,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🇺🇲 美国节点
       - 🇭🇰 香港节点
-      - 🇹🇼 台湾节点
+      - 🇨🇳 台湾节点
       - 🇸🇬 狮城节点
       - 🇯🇵 日本节点
       - 🇰🇷 韩国节点
-      - 📶 官方优选
-      - ☑️ 手动切换
+      - 🚀 手动切换
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -341,12 +260,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🇺🇲 美国节点
       - 🇭🇰 香港节点
-      - 🇹🇼 台湾节点
+      - 🇨🇳 台湾节点
       - 🇸🇬 狮城节点
       - 🇯🇵 日本节点
       - 🇰🇷 韩国节点
-      - 📶 官方优选
-      - ☑️ 手动切换
+      - 🚀 手动切换
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -354,12 +272,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🇺🇲 美国节点
       - 🇭🇰 香港节点
-      - 🇹🇼 台湾节点
+      - 🇨🇳 台湾节点
       - 🇸🇬 狮城节点
       - 🇯🇵 日本节点
       - 🇰🇷 韩国节点
-      - 📶 官方优选
-      - ☑️ 手动切换
+      - 🚀 手动切换
   - name: 🎮 游戏平台
     type: select
     proxies:
@@ -367,19 +284,17 @@ proxy-groups:
       - 🚀 节点选择
       - 🇺🇲 美国节点
       - 🇭🇰 香港节点
-      - 🇹🇼 台湾节点
+      - 🇨🇳 台湾节点
       - 🇸🇬 狮城节点
       - 🇯🇵 日本节点
       - 🇰🇷 韩国节点
-      - 📶 官方优选
-      - ☑️ 手动切换
+      - 🚀 手动切换
   - name: 🎶 网易音乐
     type: select
     proxies:
       - DIRECT
       - 🚀 节点选择
       - ♻️ 自动选择
-      - 加入我的频道t.me/CMLiussss解锁更多优选节点
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -403,97 +318,75 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 🇭🇰 香港节点
-      - 🇹🇼 台湾节点
+      - 🇨🇳 台湾节点
       - 🇸🇬 狮城节点
       - 🇯🇵 日本节点
       - 🇺🇲 美国节点
       - 🇰🇷 韩国节点
-      - 📶 官方优选
-      - ☑️ 手动切换
+      - 🚀 手动切换
   - name: 🇭🇰 香港节点
-    type: load-balance
-    strategy: consistent-hashing
+    type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇭🇰 HK
-      - 🇭🇰 HK 2
-      - 🇭🇰 HK 3
-      - 🇭🇰 HK 4
-      - 🇭🇰 HK 5
-      - 🇭🇰 HK 6
-      - 🇭🇰 HK 7
-      - 🇭🇰 HK 8
-      - 🇭🇰 HK 9
-      - 🇭🇰 HK 10
+      - 🇭🇰 HK-Google Cloud
+      - 🇭🇰 HK-45102-Alibaba
+      - 🇭🇰 HK-San Jose-SJC 1
+      - 🇭🇰 HK-Hong Kong-HKG 2
+      - 🇭🇰 HK-Hong Kong-HKG 3
+      - 🇭🇰 HK-Hong Kong-HKG 4
+      - 🇭🇰 HK-Hong Kong-HKG 5
+      - 🇭🇰 HK-Hong Kong-HKG 7
+      - 🇭🇰 HK-Hong Kong-HKG 8
+      - 🇭🇰 HK-Hong Kong-HKG 9
+      - 🇭🇰 HK-San Jose-SJC 11
+      - 🇭🇰 HK-Hong Kong-HKG 12
+      - 🇭🇰 HK-Hong Kong-HKG 13
+      - 🇭🇰 HK-Hong Kong-HKG 15
+      - 🇭🇰 HK-Hong Kong-HKG 17
+      - 🇭🇰 HK-Hong Kong-HKG 28
+      - 🇭🇰 Hong Kong-HKG-AS45102-Alibaba
   - name: 🇯🇵 日本节点
-    type: load-balance
-    strategy: consistent-hashing
+    type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇯🇵 JP
-      - 🇯🇵 JP 2
-      - 🇯🇵 JP 3
-      - 🇯🇵 JP 4
-      - 🇯🇵 JP 5
-      - 🇯🇵 JP 6
-      - 🇯🇵 JP 7
-      - 🇯🇵 JP 8
-      - 🇯🇵 JP 9
-      - 🇯🇵 JP 10
+      - 🇯🇵 JP-xTom
   - name: 🇺🇲 美国节点
-    type: load-balance
-    strategy: consistent-hashing
+    type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 150
     proxies:
-      - 🇺🇸 US
-      - 🇺🇸 US 2
-      - 🇺🇸 US 3
-      - 🇺🇸 US 4
-      - 🇺🇸 US 5
-      - 🇺🇸 US 6
-      - 🇺🇸 US 7
-      - 🇺🇸 US 8
-      - 🇺🇸 US 9
-      - 🇺🇸 US 10
-      - 🇺🇸 US 11
-      - 🇺🇸 US 12
-  - name: 🇹🇼 台湾节点
-    type: load-balance
-    strategy: consistent-hashing
+      - 🇺🇸 US-Fiber-logic
+  - name: 🇨🇳 台湾节点
+    type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇹🇼 TW
+      - 🇹🇼 TW-Google Cloud
   - name: 🇸🇬 狮城节点
-    type: load-balance
-    strategy: consistent-hashing
+    type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇸🇬 SG
-      - 🇸🇬 SG 2
+      - 🇸🇬 SG-Microsoft Azure
+      - 🇸🇬 Singapore-SIN-AS132203-Tencent cloud computing
   - name: 🇰🇷 韩国节点
-    type: load-balance
-    strategy: consistent-hashing
+    type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇰🇷 KR
-      - 🇰🇷 KR 2
-      - 🇰🇷 KR 3
-      - 🇰🇷 KR 4
-      - 🇰🇷 KR 5
-      - 🇰🇷 KR 6
-      - 🇰🇷 KR 7
+      - 🇰🇷 KR-Oracle Cloud
+  - name: 🎥 奈飞节点
+    type: select
+    proxies:
+      - DIRECT
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
@@ -2381,40 +2274,21 @@ rules:
   - IP-CIDR6,2001:67c:4e8::/48,📲 电报消息,no-resolve
   - IP-CIDR6,2001:b28:f23d::/48,📲 电报消息,no-resolve
   - IP-CIDR6,2001:b28:f23f::/48,📲 电报消息,no-resolve
-  - DOMAIN-KEYWORD,openai,🤖 OpenAi
-  - DOMAIN-SUFFIX,auth0.com,🤖 OpenAi
-  - DOMAIN-SUFFIX,challenges.cloudflare.com,🤖 OpenAi
-  - DOMAIN-SUFFIX,client-api.arkoselabs.com,🤖 OpenAi
-  - DOMAIN-SUFFIX,events.statsigapi.net,🤖 OpenAi
-  - DOMAIN-SUFFIX,featuregates.org,🤖 OpenAi
-  - DOMAIN-SUFFIX,identrust.com,🤖 OpenAi
-  - DOMAIN-SUFFIX,intercom.io,🤖 OpenAi
-  - DOMAIN-SUFFIX,intercomcdn.com,🤖 OpenAi
-  - DOMAIN-SUFFIX,oaistatic.com,🤖 OpenAi
-  - DOMAIN-SUFFIX,oaiusercontent.com,🤖 OpenAi
-  - DOMAIN-SUFFIX,openai.com,🤖 OpenAi
-  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🤖 OpenAi
-  - DOMAIN-SUFFIX,sentry.io,🤖 OpenAi
-  - DOMAIN-SUFFIX,stripe.com,🤖 OpenAi
-  - DOMAIN-SUFFIX,openai.com,🤖 OpenAi
-  - DOMAIN-SUFFIX,openai.nooc.ink,🤖 OpenAi
-  - DOMAIN-SUFFIX,AI.com,🤖 OpenAi
-  - DOMAIN-SUFFIX,cdn.auth0.com,🤖 OpenAi
-  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🤖 OpenAi
-  - DOMAIN-SUFFIX,opendns.com,🤖 OpenAi
-  - DOMAIN-SUFFIX,bing.com,🤖 OpenAi
-  - DOMAIN-SUFFIX,civitai.com,🤖 OpenAi
-  - DOMAIN,bard.google.com,🤖 OpenAi
-  - DOMAIN,ai.google.dev,🤖 OpenAi
-  - DOMAIN,gemini.google.com,🤖 OpenAi
-  - DOMAIN-SUFFIX,googleapis.com,🤖 OpenAi
-  - DOMAIN-SUFFIX,sentry.io,🤖 OpenAi
-  - DOMAIN-SUFFIX,intercom.io,🤖 OpenAi
-  - DOMAIN-SUFFIX,featuregates.org,🤖 OpenAi
-  - DOMAIN-SUFFIX,statsigapi.net,🤖 OpenAi
-  - DOMAIN-SUFFIX,claude.ai,🤖 OpenAi
-  - DOMAIN-SUFFIX,Anthropic.com,🤖 OpenAi
-  - DOMAIN-SUFFIX,opera-api.com,🤖 OpenAi
+  - DOMAIN-KEYWORD,openai,💬 OpenAi
+  - DOMAIN-SUFFIX,auth0.com,💬 OpenAi
+  - DOMAIN-SUFFIX,challenges.cloudflare.com,💬 OpenAi
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com,💬 OpenAi
+  - DOMAIN-SUFFIX,events.statsigapi.net,💬 OpenAi
+  - DOMAIN-SUFFIX,featuregates.org,💬 OpenAi
+  - DOMAIN-SUFFIX,identrust.com,💬 OpenAi
+  - DOMAIN-SUFFIX,intercom.io,💬 OpenAi
+  - DOMAIN-SUFFIX,intercomcdn.com,💬 OpenAi
+  - DOMAIN-SUFFIX,oaistatic.com,💬 OpenAi
+  - DOMAIN-SUFFIX,oaiusercontent.com,💬 OpenAi
+  - DOMAIN-SUFFIX,openai.com,💬 OpenAi
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,💬 OpenAi
+  - DOMAIN-SUFFIX,sentry.io,💬 OpenAi
+  - DOMAIN-SUFFIX,stripe.com,💬 OpenAi
   - DOMAIN-SUFFIX,163yun.com,🎶 网易音乐
   - DOMAIN-SUFFIX,api.iplay.163.com,🎶 网易音乐
   - DOMAIN-SUFFIX,hz.netease.com,🎶 网易音乐
@@ -10072,266 +9946,4 @@ rules:
   - PROCESS-NAME,Weiyun.exe,🎯 全球直连
   - PROCESS-NAME,baidunetdisk.exe,🎯 全球直连
   - GEOIP,CN,🎯 全球直连
-  - DOMAIN,ic.adobe.io,🍃 应用净化
-  - DOMAIN,cc-api-data.adobe.io,🍃 应用净化
-  - DOMAIN,prod.adobegenuine.com,🍃 应用净化
-  - DOMAIN,gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com,🍃 应用净化
-  - DOMAIN,0mo5a70cqa.adobe.io,🍃 应用净化
-  - DOMAIN,1b9khekel6.adobe.io,🍃 应用净化
-  - DOMAIN,1hzopx6nz7.adobe.io,🍃 应用净化
-  - DOMAIN,23ynjitwt5.adobe.io,🍃 应用净化
-  - DOMAIN,2ftem87osk.adobe.io,🍃 应用净化
-  - DOMAIN,3ca52znvmj.adobe.io,🍃 应用净化
-  - DOMAIN,3d3wqt96ht.adobe.io,🍃 应用净化
-  - DOMAIN,4vzokhpsbs.adobe.io,🍃 应用净化
-  - DOMAIN,5zgzzv92gn.adobe.io,🍃 应用净化
-  - DOMAIN,69tu0xswvq.adobe.io,🍃 应用净化
-  - DOMAIN,7g2gzgk9g1.adobe.io,🍃 应用净化
-  - DOMAIN,7m31guub0q.adobe.io,🍃 应用净化
-  - DOMAIN,7sj9n87sls.adobe.io,🍃 应用净化
-  - DOMAIN,8ncdzpmmrg.adobe.io,🍃 应用净化
-  - DOMAIN,9ngulmtgqi.adobe.io,🍃 应用净化
-  - DOMAIN,aoorovjtha.adobe.io,🍃 应用净化
-  - DOMAIN,b5kbg2ggog.adobe.io,🍃 应用净化
-  - DOMAIN,cd536oo20y.adobe.io,🍃 应用净化
-  - DOMAIN,dxyeyf6ecy.adobe.io,🍃 应用净化
-  - DOMAIN,dyzt55url8.adobe.io,🍃 应用净化
-  - DOMAIN,fqaq3pq1o9.adobe.io,🍃 应用净化
-  - DOMAIN,guzg78logz.adobe.io,🍃 应用净化
-  - DOMAIN,gw8gfjbs05.adobe.io,🍃 应用净化
-  - DOMAIN,i7pq6fgbsl.adobe.io,🍃 应用净化
-  - DOMAIN,ij0gdyrfka.adobe.io,🍃 应用净化
-  - DOMAIN,jc95y2v12r.adobe.io,🍃 应用净化
-  - DOMAIN,lre1kgz2u4.adobe.io,🍃 应用净化
-  - DOMAIN,m59b4msyph.adobe.io,🍃 应用净化
-  - DOMAIN,p0bjuoe16a.adobe.io,🍃 应用净化
-  - DOMAIN,p7uxzbht8h.adobe.io,🍃 应用净化
-  - DOMAIN,ph0f2h2csf.adobe.io,🍃 应用净化
-  - DOMAIN,pojvrj7ho5.adobe.io,🍃 应用净化
-  - DOMAIN,r3zj0yju1q.adobe.io,🍃 应用净化
-  - DOMAIN,r5hacgq5w6.adobe.io,🍃 应用净化
-  - DOMAIN,vajcbj9qgq.adobe.io,🍃 应用净化
-  - DOMAIN,vcorzsld2a.adobe.io,🍃 应用净化
-  - DOMAIN,cv218qmzox6.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,cv24b15c1z0.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,cv24v41zibm.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,cv256ds6c99.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,cv2b0yc07ls.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,cv2bqhsp36w.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,cv2fcqvzl1r.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,cv2l4573ukh.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,cv2nn9r0j2r.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,cv2ska86hnt.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,cv2ys4tjt9x.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,cv2yt8sqmh0.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,cv2zp87w2eo.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,iv218qmzox6.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,iv24b15c1z0.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,iv24v41zibm.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,iv256ds6c99.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,iv2b0yc07ls.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,iv2bqhsp36w.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,iv2fcqvzl1r.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,iv2l4573ukh.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,iv2nn9r0j2r.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,iv2ska86hnt.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,iv2ys4tjt9x.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,iv2yt8sqmh0.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,iv2zp87w2eo.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,pv218qmzox6.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,pv24b15c1z0.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,pv24v41zibm.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,pv256ds6c99.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,pv2b0yc07ls.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,pv2bqhsp36w.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,pv2fcqvzl1r.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,pv2l4573ukh.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,pv2nn9r0j2r.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,pv2ska86hnt.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,pv2ys4tjt9x.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,pv2yt8sqmh0.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,pv2zp87w2eo.prod.cloud.adobe.io,🍃 应用净化
-  - DOMAIN,0bj2epfqn1.adobestats.io,🍃 应用净化
-  - DOMAIN,124hzdrtoi.adobestats.io,🍃 应用净化
-  - DOMAIN,17ov1u3gio.adobestats.io,🍃 应用净化
-  - DOMAIN,17vpu0xkm6.adobestats.io,🍃 应用净化
-  - DOMAIN,1ei1f4k9yk.adobestats.io,🍃 应用净化
-  - DOMAIN,1qwiekvkux.adobestats.io,🍃 应用净化
-  - DOMAIN,1unk1rv07w.adobestats.io,🍃 应用净化
-  - DOMAIN,1xuyy0mk2p.adobestats.io,🍃 应用净化
-  - DOMAIN,220zxtbjjl.adobestats.io,🍃 应用净化
-  - DOMAIN,2621x1nzeq.adobestats.io,🍃 应用净化
-  - DOMAIN,28t4psttw7.adobestats.io,🍃 应用净化
-  - DOMAIN,2dhh9vsp39.adobestats.io,🍃 应用净化
-  - DOMAIN,2o3c6rbyfr.adobestats.io,🍃 应用净化
-  - DOMAIN,2qj10f8rdg.adobestats.io,🍃 应用净化
-  - DOMAIN,2qjz50z5lf.adobestats.io,🍃 应用净化
-  - DOMAIN,31q40256l4.adobestats.io,🍃 应用净化
-  - DOMAIN,34u96h6rvn.adobestats.io,🍃 应用净化
-  - DOMAIN,3aqshzqv3w.adobestats.io,🍃 应用净化
-  - DOMAIN,3odrrlydxt.adobestats.io,🍃 应用净化
-  - DOMAIN,3u6k9as4bj.adobestats.io,🍃 应用净化
-  - DOMAIN,3uyby7kphu.adobestats.io,🍃 应用净化
-  - DOMAIN,3xuuprv9lg.adobestats.io,🍃 应用净化
-  - DOMAIN,41yq116gxd.adobestats.io,🍃 应用净化
-  - DOMAIN,4dviy9tb3o.adobestats.io,🍃 应用净化
-  - DOMAIN,4yw5exucf6.adobestats.io,🍃 应用净化
-  - DOMAIN,50sxgwgngu.adobestats.io,🍃 应用净化
-  - DOMAIN,54cu4v5twu.adobestats.io,🍃 应用净化
-  - DOMAIN,561r5c3bz1.adobestats.io,🍃 应用净化
-  - DOMAIN,5ky0dijg73.adobestats.io,🍃 应用净化
-  - DOMAIN,5m62o8ud26.adobestats.io,🍃 应用净化
-  - DOMAIN,69rxfbohle.adobestats.io,🍃 应用净化
-  - DOMAIN,6dnh2pnz6e.adobestats.io,🍃 应用净化
-  - DOMAIN,6eidhihhci.adobestats.io,🍃 应用净化
-  - DOMAIN,6j0onv1tde.adobestats.io,🍃 应用净化
-  - DOMAIN,6purj8tuwe.adobestats.io,🍃 应用净化
-  - DOMAIN,6y6ozj4sot.adobestats.io,🍃 应用净化
-  - DOMAIN,7k1t5im229.adobestats.io,🍃 应用净化
-  - DOMAIN,7l4xxjhvkt.adobestats.io,🍃 应用净化
-  - DOMAIN,7tu619a87v.adobestats.io,🍃 应用净化
-  - DOMAIN,83x20gw5jk.adobestats.io,🍃 应用净化
-  - DOMAIN,85n85uoa1h.adobestats.io,🍃 应用净化
-  - DOMAIN,8tegcsplp5.adobestats.io,🍃 应用净化
-  - DOMAIN,99pfl4vazm.adobestats.io,🍃 应用净化
-  - DOMAIN,9iay914wzy.adobestats.io,🍃 应用净化
-  - DOMAIN,9uffo0j6wj.adobestats.io,🍃 应用净化
-  - DOMAIN,9wm8di7ifk.adobestats.io,🍃 应用净化
-  - DOMAIN,a1y2b7wsna.adobestats.io,🍃 应用净化
-  - DOMAIN,ag0ak456at.adobestats.io,🍃 应用净化
-  - DOMAIN,agxqobl83f.adobestats.io,🍃 应用净化
-  - DOMAIN,altz51db7t.adobestats.io,🍃 应用净化
-  - DOMAIN,anl33sxvkb.adobestats.io,🍃 应用净化
-  - DOMAIN,bbraowhh29.adobestats.io,🍃 应用净化
-  - DOMAIN,bk7y1gneyk.adobestats.io,🍃 应用净化
-  - DOMAIN,bs2yhuojzm.adobestats.io,🍃 应用净化
-  - DOMAIN,c474kdh1ky.adobestats.io,🍃 应用净化
-  - DOMAIN,cr2fouxnpm.adobestats.io,🍃 应用净化
-  - DOMAIN,curbpindd3.adobestats.io,🍃 应用净化
-  - DOMAIN,d101mw99xq.adobestats.io,🍃 应用净化
-  - DOMAIN,d6zco8is6l.adobestats.io,🍃 应用净化
-  - DOMAIN,dfnm3epsb7.adobestats.io,🍃 应用净化
-  - DOMAIN,dx0nvmv4hz.adobestats.io,🍃 应用净化
-  - DOMAIN,dyv9axahup.adobestats.io,🍃 应用净化
-  - DOMAIN,ebvf40engd.adobestats.io,🍃 应用净化
-  - DOMAIN,eftcpaiu36.adobestats.io,🍃 应用净化
-  - DOMAIN,eq7dbze88m.adobestats.io,🍃 应用净化
-  - DOMAIN,eqo0sr8daw.adobestats.io,🍃 应用净化
-  - DOMAIN,esx6aswt5e.adobestats.io,🍃 应用净化
-  - DOMAIN,eyiu19jd5w.adobestats.io,🍃 应用净化
-  - DOMAIN,ffs3xik41x.adobestats.io,🍃 应用净化
-  - DOMAIN,fm8m3wxufy.adobestats.io,🍃 应用净化
-  - DOMAIN,g0rhyhkd7l.adobestats.io,🍃 应用净化
-  - DOMAIN,g3y09mbaam.adobestats.io,🍃 应用净化
-  - DOMAIN,g9cli80sqp.adobestats.io,🍃 应用净化
-  - DOMAIN,hf6s5jdv95.adobestats.io,🍃 应用净化
-  - DOMAIN,hjs70w1pdi.adobestats.io,🍃 应用净化
-  - DOMAIN,hmonvr006v.adobestats.io,🍃 应用净化
-  - DOMAIN,hq0mnwz735.adobestats.io,🍃 应用净化
-  - DOMAIN,hwfqhlenbg.adobestats.io,🍃 应用净化
-  - DOMAIN,i2x2ius9o5.adobestats.io,🍃 应用净化
-  - DOMAIN,izke0wrq9n.adobestats.io,🍃 应用净化
-  - DOMAIN,j134yk6hv5.adobestats.io,🍃 应用净化
-  - DOMAIN,j14y4uzge7.adobestats.io,🍃 应用净化
-  - DOMAIN,j5vsm79i8a.adobestats.io,🍃 应用净化
-  - DOMAIN,jaircqa037.adobestats.io,🍃 应用净化
-  - DOMAIN,jatil41mhk.adobestats.io,🍃 应用净化
-  - DOMAIN,je5ufnklzs.adobestats.io,🍃 应用净化
-  - DOMAIN,jfb7fqf90c.adobestats.io,🍃 应用净化
-  - DOMAIN,jir97hss11.adobestats.io,🍃 应用净化
-  - DOMAIN,jmx50quqz0.adobestats.io,🍃 应用净化
-  - DOMAIN,jsspeczo2f.adobestats.io,🍃 应用净化
-  - DOMAIN,jsxfc5yij1.adobestats.io,🍃 应用净化
-  - DOMAIN,jwonv590qs.adobestats.io,🍃 应用净化
-  - DOMAIN,jye4987hyr.adobestats.io,🍃 应用净化
-  - DOMAIN,k9cyzt2wha.adobestats.io,🍃 应用净化
-  - DOMAIN,kgj0gsg3cf.adobestats.io,🍃 应用净化
-  - DOMAIN,kjhzwuhcel.adobestats.io,🍃 应用净化
-  - DOMAIN,klw4np5a1x.adobestats.io,🍃 应用净化
-  - DOMAIN,kvi8uopy6f.adobestats.io,🍃 应用净化
-  - DOMAIN,kvn19sesfx.adobestats.io,🍃 应用净化
-  - DOMAIN,kwi5n2ruax.adobestats.io,🍃 应用净化
-  - DOMAIN,l558s6jwzy.adobestats.io,🍃 应用净化
-  - DOMAIN,ll8xjr580v.adobestats.io,🍃 应用净化
-  - DOMAIN,llnh72p5m3.adobestats.io,🍃 应用净化
-  - DOMAIN,lnwbupw1s7.adobestats.io,🍃 应用净化
-  - DOMAIN,ltjlscpozx.adobestats.io,🍃 应用净化
-  - DOMAIN,lv5yrjxh6i.adobestats.io,🍃 应用净化
-  - DOMAIN,lz2x4rks1u.adobestats.io,🍃 应用净化
-  - DOMAIN,m59cps6x3n.adobestats.io,🍃 应用净化
-  - DOMAIN,m95pt874uw.adobestats.io,🍃 应用净化
-  - DOMAIN,mge8tcrsbr.adobestats.io,🍃 应用净化
-  - DOMAIN,mid2473ggd.adobestats.io,🍃 应用净化
-  - DOMAIN,mpsige2va9.adobestats.io,🍃 应用净化
-  - DOMAIN,n0yaid7q47.adobestats.io,🍃 应用净化
-  - DOMAIN,n746qg9j4i.adobestats.io,🍃 应用净化
-  - DOMAIN,nh8wam2qd9.adobestats.io,🍃 应用净化
-  - DOMAIN,nhc73ypmli.adobestats.io,🍃 应用净化
-  - DOMAIN,nhs5jfxg10.adobestats.io,🍃 应用净化
-  - DOMAIN,oee5i55vyo.adobestats.io,🍃 应用净化
-  - DOMAIN,oh41yzugiz.adobestats.io,🍃 应用净化
-  - DOMAIN,oxiz2n3i4v.adobestats.io,🍃 应用净化
-  - DOMAIN,p3lj3o9h1s.adobestats.io,🍃 应用净化
-  - DOMAIN,p50zgina3e.adobestats.io,🍃 应用净化
-  - DOMAIN,pc6sk9bygv.adobestats.io,🍃 应用净化
-  - DOMAIN,pdb7v5ul5q.adobestats.io,🍃 应用净化
-  - DOMAIN,pljm140ld1.adobestats.io,🍃 应用净化
-  - DOMAIN,ppn4fq68w7.adobestats.io,🍃 应用净化
-  - DOMAIN,px8vklwioh.adobestats.io,🍃 应用净化
-  - DOMAIN,q9hjwppxeq.adobestats.io,🍃 应用净化
-  - DOMAIN,qmyqpp3xs3.adobestats.io,🍃 应用净化
-  - DOMAIN,qttaz1hur3.adobestats.io,🍃 应用净化
-  - DOMAIN,qxc5z5sqkv.adobestats.io,🍃 应用净化
-  - DOMAIN,r1lqxul5sr.adobestats.io,🍃 应用净化
-  - DOMAIN,r9r6oomgms.adobestats.io,🍃 应用净化
-  - DOMAIN,rb0u8l34kr.adobestats.io,🍃 应用净化
-  - DOMAIN,rj669kv2lc.adobestats.io,🍃 应用净化
-  - DOMAIN,rlo1n6mv52.adobestats.io,🍃 应用净化
-  - DOMAIN,rm3xrk61n1.adobestats.io,🍃 应用净化
-  - DOMAIN,rmnia8d0tr.adobestats.io,🍃 应用净化
-  - DOMAIN,sbzo5r4687.adobestats.io,🍃 应用净化
-  - DOMAIN,sfmzkcuf2f.adobestats.io,🍃 应用净化
-  - DOMAIN,skg7pqn0al.adobestats.io,🍃 应用净化
-  - DOMAIN,t9phy8ywkd.adobestats.io,🍃 应用净化
-  - DOMAIN,tcxqcguhww.adobestats.io,🍃 应用净化
-  - DOMAIN,tf3an24xls.adobestats.io,🍃 应用净化
-  - DOMAIN,tprqy2lgua.adobestats.io,🍃 应用净化
-  - DOMAIN,tyradj47rp.adobestats.io,🍃 应用净化
-  - DOMAIN,u31z50xvp9.adobestats.io,🍃 应用净化
-  - DOMAIN,uf0onoepoe.adobestats.io,🍃 应用净化
-  - DOMAIN,ujqx8lhpz4.adobestats.io,🍃 应用净化
-  - DOMAIN,ura7zj55r9.adobestats.io,🍃 应用净化
-  - DOMAIN,v5nweiv7nf.adobestats.io,🍃 应用净化
-  - DOMAIN,vfsjlgw02v.adobestats.io,🍃 应用净化
-  - DOMAIN,vicsj37lhf.adobestats.io,🍃 应用净化
-  - DOMAIN,vp7ih9xoxg.adobestats.io,🍃 应用净化
-  - DOMAIN,vr1i32txj7.adobestats.io,🍃 应用净化
-  - DOMAIN,vr25z2lfqx.adobestats.io,🍃 应用净化
-  - DOMAIN,vrz9w7o7yv.adobestats.io,🍃 应用净化
-  - DOMAIN,wcxqmuxd4z.adobestats.io,🍃 应用净化
-  - DOMAIN,wjoxlf5x2z.adobestats.io,🍃 应用净化
-  - DOMAIN,wtooadkup9.adobestats.io,🍃 应用净化
-  - DOMAIN,wz8kjkd9gc.adobestats.io,🍃 应用净化
-  - DOMAIN,x5cupsunjc.adobestats.io,🍃 应用净化
-  - DOMAIN,x880ulw3h0.adobestats.io,🍃 应用净化
-  - DOMAIN,x8kb03c0jr.adobestats.io,🍃 应用净化
-  - DOMAIN,xbd20b9wqa.adobestats.io,🍃 应用净化
-  - DOMAIN,xesnl0ss94.adobestats.io,🍃 应用净化
-  - DOMAIN,xm8abqacqz.adobestats.io,🍃 应用净化
-  - DOMAIN,xqh2khegrf.adobestats.io,🍃 应用净化
-  - DOMAIN,y2r8jzsv4p.adobestats.io,🍃 应用净化
-  - DOMAIN,yb6j6g0r1n.adobestats.io,🍃 应用净化
-  - DOMAIN,yj8yx3y8zo.adobestats.io,🍃 应用净化
-  - DOMAIN,yri0bsu0ak.adobestats.io,🍃 应用净化
-  - DOMAIN,yshuhythub.adobestats.io,🍃 应用净化
-  - DOMAIN,yuzuoqo0il.adobestats.io,🍃 应用净化
-  - DOMAIN,z2yohmd1jm.adobestats.io,🍃 应用净化
-  - DOMAIN,zekdqanici.adobestats.io,🍃 应用净化
-  - DOMAIN,zfzx6hae4g.adobestats.io,🍃 应用净化
-  - DOMAIN,zmg3v61bbr.adobestats.io,🍃 应用净化
-  - DOMAIN,zooyvml70k.adobestats.io,🍃 应用净化
-  - DOMAIN,zr60t8ia88.adobestats.io,🍃 应用净化
-  - DOMAIN,zrao5tdh1t.adobestats.io,🍃 应用净化
-  - DOMAIN,zrbzvc9mel.adobestats.io,🍃 应用净化
-  - DOMAIN,zu8yy3jkaz.adobestats.io,🍃 应用净化
   - MATCH,🐟 漏网之鱼

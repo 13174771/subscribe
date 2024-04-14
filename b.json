@@ -97,36 +97,84 @@
       "outbounds": [
         "auto",
         "direct",
-        "节点使用教程/guide https://t.me/edtunnel/7462",
-        "Channel https://t.me/edtunnel anycast",
-        "🇭🇰 HK-Google Cloud",
-        "🇭🇰 HK-45102-Alibaba",
-        "🇹🇼 TW-Google Cloud",
-        "🇸🇬 SG-Microsoft Azure",
-        "🇯🇵 JP-xTom",
-        "🇰🇷 KR-Oracle Cloud",
-        "🇺🇸 US-Fiber-logic",
-        "🇭🇰 HK-San Jose-SJC 1",
-        "🇭🇰 HK-Hong Kong-HKG 2",
-        "🇭🇰 HK-Hong Kong-HKG 3",
-        "🇭🇰 HK-Hong Kong-HKG 4",
-        "🇭🇰 HK-Hong Kong-HKG 5",
-        "🇭🇰 HK-Hong Kong-HKG 7",
-        "🇭🇰 HK-Hong Kong-HKG 8",
-        "🇭🇰 HK-Hong Kong-HKG 9",
-        "🇭🇰 HK-San Jose-SJC 11",
-        "🇭🇰 HK-Hong Kong-HKG 12",
-        "🇭🇰 HK-Hong Kong-HKG 13",
-        "🇭🇰 HK-Hong Kong-HKG 15",
-        "🇭🇰 HK-Hong Kong-HKG 17",
-        "🇭🇰 HK-Hong Kong-HKG 28",
-        "🇱🇦 Los Angeles-LAX-AS3462-Chunghwa Telecom",
-        "🇰🇭 Kaohsiung City-KHH-AS3462-Chunghwa Telecom",
-        "🇮🇹 Los Angeles-LAX-AS25820-IT7 Networks Inc",
-        "🇭🇰 Hong Kong-HKG-AS45102-Alibaba",
-        "🇨🇳 Seoul-ICN-AS31898-Oracle Cloud",
-        "🇯🇵 Osaka-KIX-AS25820-IT7 Networks",
-        "🇸🇬 Singapore-SIN-AS132203-Tencent cloud computing"
+        "ws.yuanwangokk.dynv6.net-HTTP-80",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-80 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-80 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-workers.cloudflare.cyou-EDtunnel"
       ]
     },
     {
@@ -339,103 +387,203 @@
       "tag": "HongKong",
       "type": "selector",
       "outbounds": [
-        "🇭🇰 HK-Google Cloud",
-        "🇭🇰 HK-45102-Alibaba",
-        "🇭🇰 HK-San Jose-SJC 1",
-        "🇭🇰 HK-Hong Kong-HKG 2",
-        "🇭🇰 HK-Hong Kong-HKG 3",
-        "🇭🇰 HK-Hong Kong-HKG 4",
-        "🇭🇰 HK-Hong Kong-HKG 5",
-        "🇭🇰 HK-Hong Kong-HKG 7",
-        "🇭🇰 HK-Hong Kong-HKG 8",
-        "🇭🇰 HK-Hong Kong-HKG 9",
-        "🇭🇰 HK-San Jose-SJC 11",
-        "🇭🇰 HK-Hong Kong-HKG 12",
-        "🇭🇰 HK-Hong Kong-HKG 13",
-        "🇭🇰 HK-Hong Kong-HKG 15",
-        "🇭🇰 HK-Hong Kong-HKG 17",
-        "🇭🇰 HK-Hong Kong-HKG 28",
-        "🇭🇰 Hong Kong-HKG-AS45102-Alibaba"
+        "Proxy"
       ]
     },
     {
       "tag": "TaiWan",
       "type": "selector",
       "outbounds": [
-        "🇹🇼 TW-Google Cloud",
-        "🇮🇹 Los Angeles-LAX-AS25820-IT7 Networks Inc",
-        "🇯🇵 Osaka-KIX-AS25820-IT7 Networks"
+        "Proxy"
       ]
     },
     {
       "tag": "Singapore",
       "type": "selector",
       "outbounds": [
-        "🇸🇬 SG-Microsoft Azure",
-        "🇸🇬 Singapore-SIN-AS132203-Tencent cloud computing"
+        "Proxy"
       ]
     },
     {
       "tag": "Japan",
       "type": "selector",
       "outbounds": [
-        "🇯🇵 JP-xTom",
-        "🇯🇵 Osaka-KIX-AS25820-IT7 Networks"
+        "Proxy"
       ]
     },
     {
       "tag": "America",
       "type": "selector",
       "outbounds": [
-        "🇺🇸 US-Fiber-logic"
+        "Proxy"
       ]
     },
     {
       "tag": "Others",
       "type": "selector",
       "outbounds": [
-        "节点使用教程/guide https://t.me/edtunnel/7462",
-        "Channel https://t.me/edtunnel anycast",
-        "🇰🇷 KR-Oracle Cloud",
-        "🇱🇦 Los Angeles-LAX-AS3462-Chunghwa Telecom",
-        "🇰🇭 Kaohsiung City-KHH-AS3462-Chunghwa Telecom",
-        "🇨🇳 Seoul-ICN-AS31898-Oracle Cloud"
+        "ws.yuanwangokk.dynv6.net-HTTP-80",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-80 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-80 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-workers.cloudflare.cyou-EDtunnel"
       ]
     },
     {
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "节点使用教程/guide https://t.me/edtunnel/7462",
-        "Channel https://t.me/edtunnel anycast",
-        "🇭🇰 HK-Google Cloud",
-        "🇭🇰 HK-45102-Alibaba",
-        "🇹🇼 TW-Google Cloud",
-        "🇸🇬 SG-Microsoft Azure",
-        "🇯🇵 JP-xTom",
-        "🇰🇷 KR-Oracle Cloud",
-        "🇺🇸 US-Fiber-logic",
-        "🇭🇰 HK-San Jose-SJC 1",
-        "🇭🇰 HK-Hong Kong-HKG 2",
-        "🇭🇰 HK-Hong Kong-HKG 3",
-        "🇭🇰 HK-Hong Kong-HKG 4",
-        "🇭🇰 HK-Hong Kong-HKG 5",
-        "🇭🇰 HK-Hong Kong-HKG 7",
-        "🇭🇰 HK-Hong Kong-HKG 8",
-        "🇭🇰 HK-Hong Kong-HKG 9",
-        "🇭🇰 HK-San Jose-SJC 11",
-        "🇭🇰 HK-Hong Kong-HKG 12",
-        "🇭🇰 HK-Hong Kong-HKG 13",
-        "🇭🇰 HK-Hong Kong-HKG 15",
-        "🇭🇰 HK-Hong Kong-HKG 17",
-        "🇭🇰 HK-Hong Kong-HKG 28",
-        "🇱🇦 Los Angeles-LAX-AS3462-Chunghwa Telecom",
-        "🇰🇭 Kaohsiung City-KHH-AS3462-Chunghwa Telecom",
-        "🇮🇹 Los Angeles-LAX-AS25820-IT7 Networks Inc",
-        "🇭🇰 Hong Kong-HKG-AS45102-Alibaba",
-        "🇨🇳 Seoul-ICN-AS31898-Oracle Cloud",
-        "🇯🇵 Osaka-KIX-AS25820-IT7 Networks",
-        "🇸🇬 Singapore-SIN-AS132203-Tencent cloud computing"
+        "ws.yuanwangokk.dynv6.net-HTTP-80",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-80 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-80 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-80-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-8080-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-8880-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2052-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2086-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2095-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082 2",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082 3",
+        "ws.yuanwangokk.dynv6.net-HTTP-2082-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-443-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-8443-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2053-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2096-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2087-workers.cloudflare.cyou-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083 2",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn-all.xn--b6gac.eu.org-EDtunnel",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083 3",
+        "ws.yuanwangokk.dynv6.net-HTTPS-2083-workers.cloudflare.cyou-EDtunnel"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -454,9 +602,1347 @@
       "tag": "block"
     },
     {
-      "tag": "节点使用教程/guide https://t.me/edtunnel/7462",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80",
       "type": "vless",
-      "server": "c.xf.free.hr",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 80,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn.xn--b6gac.eu.org",
+      "server_port": 80,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80 2",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 80,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn-all.xn--b6gac.eu.org",
+      "server_port": 80,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80 3",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 80,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80-workers.cloudflare.cyou-EDtunnel",
+      "type": "vless",
+      "server": "workers.cloudflare.cyou",
+      "server_port": 80,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 8080,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn.xn--b6gac.eu.org",
+      "server_port": 8080,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080 2",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 8080,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn-all.xn--b6gac.eu.org",
+      "server_port": 8080,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080 3",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 8080,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080-workers.cloudflare.cyou-EDtunnel",
+      "type": "vless",
+      "server": "workers.cloudflare.cyou",
+      "server_port": 8080,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 8880,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn.xn--b6gac.eu.org",
+      "server_port": 8880,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880 2",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 8880,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn-all.xn--b6gac.eu.org",
+      "server_port": 8880,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880 3",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 8880,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880-workers.cloudflare.cyou-EDtunnel",
+      "type": "vless",
+      "server": "workers.cloudflare.cyou",
+      "server_port": 8880,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2052,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn.xn--b6gac.eu.org",
+      "server_port": 2052,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052 2",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2052,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn-all.xn--b6gac.eu.org",
+      "server_port": 2052,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052 3",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2052,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052-workers.cloudflare.cyou-EDtunnel",
+      "type": "vless",
+      "server": "workers.cloudflare.cyou",
+      "server_port": 2052,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2086,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn.xn--b6gac.eu.org",
+      "server_port": 2086,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086 2",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2086,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn-all.xn--b6gac.eu.org",
+      "server_port": 2086,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086 3",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2086,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086-workers.cloudflare.cyou-EDtunnel",
+      "type": "vless",
+      "server": "workers.cloudflare.cyou",
+      "server_port": 2086,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2095,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn.xn--b6gac.eu.org",
+      "server_port": 2095,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095 2",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2095,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn-all.xn--b6gac.eu.org",
+      "server_port": 2095,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095 3",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2095,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095-workers.cloudflare.cyou-EDtunnel",
+      "type": "vless",
+      "server": "workers.cloudflare.cyou",
+      "server_port": 2095,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2082,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn.xn--b6gac.eu.org",
+      "server_port": 2082,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082 2",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2082,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn-all.xn--b6gac.eu.org",
+      "server_port": 2082,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082 3",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2082,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082-workers.cloudflare.cyou-EDtunnel",
+      "type": "vless",
+      "server": "workers.cloudflare.cyou",
+      "server_port": 2082,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 443,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn.xn--b6gac.eu.org",
+      "server_port": 443,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443 2",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 443,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn-all.xn--b6gac.eu.org",
+      "server_port": 443,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443 3",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 443,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443-workers.cloudflare.cyou-EDtunnel",
+      "type": "vless",
+      "server": "workers.cloudflare.cyou",
+      "server_port": 443,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 8443,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn.xn--b6gac.eu.org",
+      "server_port": 8443,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443 2",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 8443,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn-all.xn--b6gac.eu.org",
+      "server_port": 8443,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443 3",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 8443,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443-workers.cloudflare.cyou-EDtunnel",
+      "type": "vless",
+      "server": "workers.cloudflare.cyou",
+      "server_port": 8443,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2053,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn.xn--b6gac.eu.org",
+      "server_port": 2053,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053 2",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2053,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn-all.xn--b6gac.eu.org",
+      "server_port": 2053,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053 3",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2053,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053-workers.cloudflare.cyou-EDtunnel",
+      "type": "vless",
+      "server": "workers.cloudflare.cyou",
+      "server_port": 2053,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2096,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn.xn--b6gac.eu.org",
+      "server_port": 2096,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096 2",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2096,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "type": "vless",
+      "server": "cdn-all.xn--b6gac.eu.org",
+      "server_port": 2096,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096 3",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2096,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096-workers.cloudflare.cyou-EDtunnel",
+      "type": "vless",
+      "server": "workers.cloudflare.cyou",
+      "server_port": 2096,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2087,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -480,9 +1966,9 @@
       }
     },
     {
-      "tag": "Channel https://t.me/edtunnel anycast",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
-      "server": "c.xf.free.hr",
+      "server": "cdn.xn--b6gac.eu.org",
       "server_port": 2087,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -506,10 +1992,10 @@
       }
     },
     {
-      "tag": "🇭🇰 HK-Google Cloud",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087 2",
       "type": "vless",
-      "server": "35.215.166.189",
-      "server_port": 10014,
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2087,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
@@ -532,9 +2018,87 @@
       }
     },
     {
-      "tag": "🇭🇰 HK-45102-Alibaba",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn-all.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
-      "server": "8.218.201.73",
+      "server": "cdn-all.xn--b6gac.eu.org",
+      "server_port": 2087,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087 3",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2087,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087-workers.cloudflare.cyou-EDtunnel",
+      "type": "vless",
+      "server": "workers.cloudflare.cyou",
+      "server_port": 2087,
+      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "ws.yuanwangokk.dynv6.net",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "ws.yuanwangokk.dynv6.net"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2048
+      }
+    },
+    {
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083",
+      "type": "vless",
+      "server": "ws.yuanwangokk.dynv6.net",
       "server_port": 2083,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
@@ -558,10 +2122,10 @@
       }
     },
     {
-      "tag": "🇹🇼 TW-Google Cloud",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
-      "server": "34.81.231.217",
-      "server_port": 4443,
+      "server": "cdn.xn--b6gac.eu.org",
+      "server_port": 2083,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
@@ -584,10 +2148,10 @@
       }
     },
     {
-      "tag": "🇸🇬 SG-Microsoft Azure",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083 2",
       "type": "vless",
-      "server": "20.6.32.20",
-      "server_port": 4431,
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2083,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
@@ -610,10 +2174,10 @@
       }
     },
     {
-      "tag": "🇯🇵 JP-xTom",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn-all.xn--b6gac.eu.org-EDtunnel",
       "type": "vless",
-      "server": "176.126.114.97",
-      "server_port": 443,
+      "server": "cdn-all.xn--b6gac.eu.org",
+      "server_port": 2083,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
@@ -636,10 +2200,10 @@
       }
     },
     {
-      "tag": "🇰🇷 KR-Oracle Cloud",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083 3",
       "type": "vless",
-      "server": "129.154.212.181",
-      "server_port": 20309,
+      "server": "ws.yuanwangokk.dynv6.net",
+      "server_port": 2083,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
@@ -662,10 +2226,10 @@
       }
     },
     {
-      "tag": "🇺🇸 US-Fiber-logic",
+      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083-workers.cloudflare.cyou-EDtunnel",
       "type": "vless",
-      "server": "80.251.217.61",
-      "server_port": 443,
+      "server": "workers.cloudflare.cyou",
+      "server_port": 2083,
       "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
       "packet_encoding": "xudp",
       "tls": {
@@ -685,384 +2249,6 @@
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "🇭🇰 HK-San Jose-SJC 1",
-      "type": "vless",
-      "server": "8.212.41.98",
-      "server_port": 8080,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇭🇰 HK-Hong Kong-HKG 2",
-      "type": "vless",
-      "server": "8.218.158.94",
-      "server_port": 2095,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇭🇰 HK-Hong Kong-HKG 3",
-      "type": "vless",
-      "server": "47.243.173.187",
-      "server_port": 2052,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇭🇰 HK-Hong Kong-HKG 4",
-      "type": "vless",
-      "server": "8.218.207.169",
-      "server_port": 2086,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇭🇰 HK-Hong Kong-HKG 5",
-      "type": "vless",
-      "server": "8.217.164.10",
-      "server_port": 2095,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇭🇰 HK-Hong Kong-HKG 7",
-      "type": "vless",
-      "server": "8.217.85.14",
-      "server_port": 2082,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇭🇰 HK-Hong Kong-HKG 8",
-      "type": "vless",
-      "server": "8.218.8.142",
-      "server_port": 8080,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇭🇰 HK-Hong Kong-HKG 9",
-      "type": "vless",
-      "server": "47.242.59.216",
-      "server_port": 2082,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇭🇰 HK-San Jose-SJC 11",
-      "type": "vless",
-      "server": "47.57.245.232",
-      "server_port": 80,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇭🇰 HK-Hong Kong-HKG 12",
-      "type": "vless",
-      "server": "8.212.12.98",
-      "server_port": 80,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇭🇰 HK-Hong Kong-HKG 13",
-      "type": "vless",
-      "server": "8.218.146.204",
-      "server_port": 2082,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇭🇰 HK-Hong Kong-HKG 15",
-      "type": "vless",
-      "server": "8.217.147.230",
-      "server_port": 2052,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇭🇰 HK-Hong Kong-HKG 17",
-      "type": "vless",
-      "server": "8.218.48.92",
-      "server_port": 8880,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇭🇰 HK-Hong Kong-HKG 28",
-      "type": "vless",
-      "server": "8.217.91.121",
-      "server_port": 2052,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇱🇦 Los Angeles-LAX-AS3462-Chunghwa Telecom",
-      "type": "vless",
-      "server": "211.75.74.232",
-      "server_port": 4443,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇰🇭 Kaohsiung City-KHH-AS3462-Chunghwa Telecom",
-      "type": "vless",
-      "server": "125.229.230.180",
-      "server_port": 28233,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇮🇹 Los Angeles-LAX-AS25820-IT7 Networks Inc",
-      "type": "vless",
-      "server": "95.169.25.127",
-      "server_port": 26705,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇭🇰 Hong Kong-HKG-AS45102-Alibaba",
-      "type": "vless",
-      "server": "8.218.207.169",
-      "server_port": 443,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇨🇳 Seoul-ICN-AS31898-Oracle Cloud",
-      "type": "vless",
-      "server": "132.145.95.170",
-      "server_port": 39637,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇯🇵 Osaka-KIX-AS25820-IT7 Networks",
-      "type": "vless",
-      "server": "212.50.246.202",
-      "server_port": 13703,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
-      }
-    },
-    {
-      "tag": "🇸🇬 Singapore-SIN-AS132203-Tencent cloud computing",
-      "type": "vless",
-      "server": "43.153.208.195",
-      "server_port": 26306,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        }
       }
     }
   ],

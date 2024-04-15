@@ -97,84 +97,69 @@
       "outbounds": [
         "auto",
         "direct",
-        "ws.yuanwangokk.dynv6.net-HTTP-80",
-        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-80 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-80 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-80-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083-workers.cloudflare.cyou-EDtunnel"
+        "🇲🇱 加入我的频道t.me/CMLiussss解锁更多优选节点",
+        "🇸🇬 SG",
+        "🇺🇸 US",
+        "🇺🇸 US 2",
+        "🇳🇱 NL",
+        "🇳🇱 NL 2",
+        "🇬🇧 GB",
+        "🇺🇸 US 3",
+        "🇺🇸 US 4",
+        "🇺🇸 US 5",
+        "🇩🇪 DE",
+        "🇰🇷 KR",
+        "🇳🇱 NL 3",
+        "🇸🇬 SG 2",
+        "🇺🇸 US 6",
+        "🇳🇱 NL 4",
+        "🇺🇸 US 7",
+        "🇭🇰 HK",
+        "🇭🇰 HK 2",
+        "🇭🇰 HK 3",
+        "🇭🇰 HK 4",
+        "🇭🇰 HK 5",
+        "🇭🇰 HK 6",
+        "🇭🇰 HK 7",
+        "🇭🇰 HK 8",
+        "🇯🇵 JP",
+        "🇯🇵 JP 2",
+        "🇯🇵 JP 3",
+        "🇯🇵 JP 4",
+        "🇯🇵 JP 5",
+        "🇯🇵 JP 6",
+        "🇯🇵 JP 7",
+        "🇯🇵 JP 8",
+        "🇯🇵 JP 9",
+        "🇯🇵 JP 10",
+        "🇸🇬 SG 3",
+        "🇸🇬 SG 4",
+        "🇭🇰 HK 9",
+        "🇭🇰 HK 10",
+        "🇰🇷 KR 2",
+        "🇰🇷 KR 3",
+        "🇰🇷 KR 4",
+        "🇰🇷 KR 5",
+        "🇺🇸 US 8",
+        "🇺🇸 US 9",
+        "🇺🇸 US 10",
+        "🇺🇸 US 11",
+        "CT",
+        "CT 2",
+        "CT 3",
+        "CT 4",
+        "CT 5",
+        "CT 6",
+        "CT 7",
+        "CT 8",
+        "🇲🇨 CMCC-IPV6",
+        "🇲🇨 CMCC-IPV6 2",
+        "🇲🇨 CMCC-IPV6 3",
+        "🇲🇨 CMCC-IPV6 4",
+        "🇲🇨 CMCC-IPV6 5",
+        "🇲🇨 CMCC-IPV6 6",
+        "🇲🇨 CMCC-IPV6 7",
+        "🇲🇨 CMCC-IPV6 8"
       ]
     },
     {
@@ -387,7 +372,16 @@
       "tag": "HongKong",
       "type": "selector",
       "outbounds": [
-        "Proxy"
+        "🇭🇰 HK",
+        "🇭🇰 HK 2",
+        "🇭🇰 HK 3",
+        "🇭🇰 HK 4",
+        "🇭🇰 HK 5",
+        "🇭🇰 HK 6",
+        "🇭🇰 HK 7",
+        "🇭🇰 HK 8",
+        "🇭🇰 HK 9",
+        "🇭🇰 HK 10"
       ]
     },
     {
@@ -401,189 +395,146 @@
       "tag": "Singapore",
       "type": "selector",
       "outbounds": [
-        "Proxy"
+        "🇸🇬 SG",
+        "🇸🇬 SG 2",
+        "🇸🇬 SG 3",
+        "🇸🇬 SG 4"
       ]
     },
     {
       "tag": "Japan",
       "type": "selector",
       "outbounds": [
-        "Proxy"
+        "🇯🇵 JP",
+        "🇯🇵 JP 2",
+        "🇯🇵 JP 3",
+        "🇯🇵 JP 4",
+        "🇯🇵 JP 5",
+        "🇯🇵 JP 6",
+        "🇯🇵 JP 7",
+        "🇯🇵 JP 8",
+        "🇯🇵 JP 9",
+        "🇯🇵 JP 10"
       ]
     },
     {
       "tag": "America",
       "type": "selector",
       "outbounds": [
-        "Proxy"
+        "🇲🇱 加入我的频道t.me/CMLiussss解锁更多优选节点",
+        "🇺🇸 US",
+        "🇺🇸 US 2",
+        "🇺🇸 US 3",
+        "🇺🇸 US 4",
+        "🇺🇸 US 5",
+        "🇺🇸 US 6",
+        "🇺🇸 US 7",
+        "🇺🇸 US 8",
+        "🇺🇸 US 9",
+        "🇺🇸 US 10",
+        "🇺🇸 US 11"
       ]
     },
     {
       "tag": "Others",
       "type": "selector",
       "outbounds": [
-        "ws.yuanwangokk.dynv6.net-HTTP-80",
-        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-80 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-80 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-80-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083-workers.cloudflare.cyou-EDtunnel"
+        "🇳🇱 NL",
+        "🇳🇱 NL 2",
+        "🇬🇧 GB",
+        "🇩🇪 DE",
+        "🇰🇷 KR",
+        "🇳🇱 NL 3",
+        "🇳🇱 NL 4",
+        "🇰🇷 KR 2",
+        "🇰🇷 KR 3",
+        "🇰🇷 KR 4",
+        "🇰🇷 KR 5",
+        "CT",
+        "CT 2",
+        "CT 3",
+        "CT 4",
+        "CT 5",
+        "CT 6",
+        "CT 7",
+        "CT 8",
+        "🇲🇨 CMCC-IPV6",
+        "🇲🇨 CMCC-IPV6 2",
+        "🇲🇨 CMCC-IPV6 3",
+        "🇲🇨 CMCC-IPV6 4",
+        "🇲🇨 CMCC-IPV6 5",
+        "🇲🇨 CMCC-IPV6 6",
+        "🇲🇨 CMCC-IPV6 7",
+        "🇲🇨 CMCC-IPV6 8"
       ]
     },
     {
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "ws.yuanwangokk.dynv6.net-HTTP-80",
-        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-80 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-80 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-80-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-8080-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-8880-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-2052-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-2086-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-2095-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082 2",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082 3",
-        "ws.yuanwangokk.dynv6.net-HTTP-2082-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-443-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-8443-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2053-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2096-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2087-workers.cloudflare.cyou-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083 2",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn-all.xn--b6gac.eu.org-EDtunnel",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083 3",
-        "ws.yuanwangokk.dynv6.net-HTTPS-2083-workers.cloudflare.cyou-EDtunnel"
+        "🇲🇱 加入我的频道t.me/CMLiussss解锁更多优选节点",
+        "🇸🇬 SG",
+        "🇺🇸 US",
+        "🇺🇸 US 2",
+        "🇳🇱 NL",
+        "🇳🇱 NL 2",
+        "🇬🇧 GB",
+        "🇺🇸 US 3",
+        "🇺🇸 US 4",
+        "🇺🇸 US 5",
+        "🇩🇪 DE",
+        "🇰🇷 KR",
+        "🇳🇱 NL 3",
+        "🇸🇬 SG 2",
+        "🇺🇸 US 6",
+        "🇳🇱 NL 4",
+        "🇺🇸 US 7",
+        "🇭🇰 HK",
+        "🇭🇰 HK 2",
+        "🇭🇰 HK 3",
+        "🇭🇰 HK 4",
+        "🇭🇰 HK 5",
+        "🇭🇰 HK 6",
+        "🇭🇰 HK 7",
+        "🇭🇰 HK 8",
+        "🇯🇵 JP",
+        "🇯🇵 JP 2",
+        "🇯🇵 JP 3",
+        "🇯🇵 JP 4",
+        "🇯🇵 JP 5",
+        "🇯🇵 JP 6",
+        "🇯🇵 JP 7",
+        "🇯🇵 JP 8",
+        "🇯🇵 JP 9",
+        "🇯🇵 JP 10",
+        "🇸🇬 SG 3",
+        "🇸🇬 SG 4",
+        "🇭🇰 HK 9",
+        "🇭🇰 HK 10",
+        "🇰🇷 KR 2",
+        "🇰🇷 KR 3",
+        "🇰🇷 KR 4",
+        "🇰🇷 KR 5",
+        "🇺🇸 US 8",
+        "🇺🇸 US 9",
+        "🇺🇸 US 10",
+        "🇺🇸 US 11",
+        "CT",
+        "CT 2",
+        "CT 3",
+        "CT 4",
+        "CT 5",
+        "CT 6",
+        "CT 7",
+        "CT 8",
+        "🇲🇨 CMCC-IPV6",
+        "🇲🇨 CMCC-IPV6 2",
+        "🇲🇨 CMCC-IPV6 3",
+        "🇲🇨 CMCC-IPV6 4",
+        "🇲🇨 CMCC-IPV6 5",
+        "🇲🇨 CMCC-IPV6 6",
+        "🇲🇨 CMCC-IPV6 7",
+        "🇲🇨 CMCC-IPV6 8"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -602,730 +553,16 @@
       "tag": "block"
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80",
+      "tag": "🇲🇱 加入我的频道t.me/CMLiussss解锁更多优选节点",
       "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 80,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel",
-      "type": "vless",
-      "server": "cdn.xn--b6gac.eu.org",
-      "server_port": 80,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80 2",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 80,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel",
-      "type": "vless",
-      "server": "cdn-all.xn--b6gac.eu.org",
-      "server_port": 80,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80 3",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 80,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-80-workers.cloudflare.cyou-EDtunnel",
-      "type": "vless",
-      "server": "workers.cloudflare.cyou",
-      "server_port": 80,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 8080,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn.xn--b6gac.eu.org-EDtunnel",
-      "type": "vless",
-      "server": "cdn.xn--b6gac.eu.org",
-      "server_port": 8080,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080 2",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 8080,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080-cdn-all.xn--b6gac.eu.org-EDtunnel",
-      "type": "vless",
-      "server": "cdn-all.xn--b6gac.eu.org",
-      "server_port": 8080,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080 3",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 8080,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8080-workers.cloudflare.cyou-EDtunnel",
-      "type": "vless",
-      "server": "workers.cloudflare.cyou",
-      "server_port": 8080,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 8880,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn.xn--b6gac.eu.org-EDtunnel",
-      "type": "vless",
-      "server": "cdn.xn--b6gac.eu.org",
-      "server_port": 8880,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880 2",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 8880,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880-cdn-all.xn--b6gac.eu.org-EDtunnel",
-      "type": "vless",
-      "server": "cdn-all.xn--b6gac.eu.org",
-      "server_port": 8880,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880 3",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 8880,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-8880-workers.cloudflare.cyou-EDtunnel",
-      "type": "vless",
-      "server": "workers.cloudflare.cyou",
-      "server_port": 8880,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2052,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn.xn--b6gac.eu.org-EDtunnel",
-      "type": "vless",
-      "server": "cdn.xn--b6gac.eu.org",
-      "server_port": 2052,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052 2",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2052,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052-cdn-all.xn--b6gac.eu.org-EDtunnel",
-      "type": "vless",
-      "server": "cdn-all.xn--b6gac.eu.org",
-      "server_port": 2052,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052 3",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2052,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2052-workers.cloudflare.cyou-EDtunnel",
-      "type": "vless",
-      "server": "workers.cloudflare.cyou",
-      "server_port": 2052,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2086,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn.xn--b6gac.eu.org-EDtunnel",
-      "type": "vless",
-      "server": "cdn.xn--b6gac.eu.org",
-      "server_port": 2086,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086 2",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2086,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086-cdn-all.xn--b6gac.eu.org-EDtunnel",
-      "type": "vless",
-      "server": "cdn-all.xn--b6gac.eu.org",
-      "server_port": 2086,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086 3",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2086,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2086-workers.cloudflare.cyou-EDtunnel",
-      "type": "vless",
-      "server": "workers.cloudflare.cyou",
-      "server_port": 2086,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2095,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn.xn--b6gac.eu.org-EDtunnel",
-      "type": "vless",
-      "server": "cdn.xn--b6gac.eu.org",
-      "server_port": 2095,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095 2",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2095,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095-cdn-all.xn--b6gac.eu.org-EDtunnel",
-      "type": "vless",
-      "server": "cdn-all.xn--b6gac.eu.org",
-      "server_port": 2095,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095 3",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2095,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2095-workers.cloudflare.cyou-EDtunnel",
-      "type": "vless",
-      "server": "workers.cloudflare.cyou",
-      "server_port": 2095,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2082,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn.xn--b6gac.eu.org-EDtunnel",
-      "type": "vless",
-      "server": "cdn.xn--b6gac.eu.org",
-      "server_port": 2082,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082 2",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2082,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082-cdn-all.xn--b6gac.eu.org-EDtunnel",
-      "type": "vless",
-      "server": "cdn-all.xn--b6gac.eu.org",
-      "server_port": 2082,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082 3",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2082,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTP-2082-workers.cloudflare.cyou-EDtunnel",
-      "type": "vless",
-      "server": "workers.cloudflare.cyou",
-      "server_port": 2082,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
+      "server": "cf.090227.xyz",
       "server_port": 443,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1333,25 +570,47 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.us.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+          "Host": "TG.CMLiussss.dns.army"
+        }
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "🇸🇬 SG",
       "type": "vless",
-      "server": "cdn.xn--b6gac.eu.org",
+      "server": "158.178.241.45",
+      "server_port": 2053,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.sg.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸 US",
+      "type": "vless",
+      "server": "192.18.134.231",
       "server_port": 443,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1359,25 +618,47 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.us.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+          "Host": "TG.CMLiussss.dns.army"
+        }
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443 2",
+      "tag": "🇺🇸 US 2",
       "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
+      "server": "192.9.246.112",
+      "server_port": 8443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.us.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇳🇱 NL",
+      "type": "vless",
+      "server": "146.70.175.188",
       "server_port": 443,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1385,25 +666,23 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+          "Host": "TG.CMLiussss.dns.army"
+        }
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "tag": "🇳🇱 NL 2",
       "type": "vless",
-      "server": "cdn-all.xn--b6gac.eu.org",
+      "server": "146.70.175.119",
       "server_port": 443,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1411,25 +690,143 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+          "Host": "TG.CMLiussss.dns.army"
+        }
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443 3",
+      "tag": "🇬🇧 GB",
       "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
+      "server": "38.59.226.180",
+      "server_port": 34237,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸 US 3",
+      "type": "vless",
+      "server": "129.146.247.85",
+      "server_port": 2053,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.us.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸 US 4",
+      "type": "vless",
+      "server": "37.123.192.227",
+      "server_port": 2003,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.us.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸 US 5",
+      "type": "vless",
+      "server": "37.123.193.176",
+      "server_port": 45773,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.us.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇩🇪 DE",
+      "type": "vless",
+      "server": "141.147.61.116",
+      "server_port": 2053,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇰🇷 KR",
+      "type": "vless",
+      "server": "146.56.151.2",
       "server_port": 443,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1437,25 +834,23 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.kr.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+          "Host": "TG.CMLiussss.dns.army"
+        }
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-443-workers.cloudflare.cyou-EDtunnel",
+      "tag": "🇳🇱 NL 3",
       "type": "vless",
-      "server": "workers.cloudflare.cyou",
+      "server": "146.70.175.175",
       "server_port": 443,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1463,181 +858,23 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 8443,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
+          "Host": "TG.CMLiussss.dns.army"
         }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "🇸🇬 SG 2",
       "type": "vless",
-      "server": "cdn.xn--b6gac.eu.org",
-      "server_port": 8443,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443 2",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 8443,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443-cdn-all.xn--b6gac.eu.org-EDtunnel",
-      "type": "vless",
-      "server": "cdn-all.xn--b6gac.eu.org",
-      "server_port": 8443,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443 3",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 8443,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-8443-workers.cloudflare.cyou-EDtunnel",
-      "type": "vless",
-      "server": "workers.cloudflare.cyou",
-      "server_port": 8443,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
+      "server": "158.178.246.169",
       "server_port": 2053,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1645,25 +882,95 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.sg.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+          "Host": "TG.CMLiussss.dns.army"
+        }
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "🇺🇸 US 6",
       "type": "vless",
-      "server": "cdn.xn--b6gac.eu.org",
+      "server": "37.123.193.218",
+      "server_port": 24493,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.us.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇳🇱 NL 4",
+      "type": "vless",
+      "server": "146.70.175.104",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸 US 7",
+      "type": "vless",
+      "server": "129.146.46.164",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.us.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇭🇰 HK",
+      "type": "vless",
+      "server": "8.218.22.210",
       "server_port": 2053,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1671,25 +978,23 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.aliyun.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+          "Host": "TG.CMLiussss.dns.army"
+        }
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053 2",
+      "tag": "🇭🇰 HK 2",
       "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
+      "server": "8.210.3.24",
       "server_port": 2053,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1697,25 +1002,23 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.aliyun.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+          "Host": "TG.CMLiussss.dns.army"
+        }
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "tag": "🇭🇰 HK 3",
       "type": "vless",
-      "server": "cdn-all.xn--b6gac.eu.org",
+      "server": "8.218.126.53",
       "server_port": 2053,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1723,25 +1026,47 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.aliyun.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+          "Host": "TG.CMLiussss.dns.army"
+        }
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053 3",
+      "tag": "🇭🇰 HK 4",
       "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
+      "server": "8.217.145.40",
+      "server_port": 2083,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.aliyun.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇭🇰 HK 5",
+      "type": "vless",
+      "server": "8.218.204.128",
       "server_port": 2053,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1749,25 +1074,119 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.aliyun.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+          "Host": "TG.CMLiussss.dns.army"
+        }
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2053-workers.cloudflare.cyou-EDtunnel",
+      "tag": "🇭🇰 HK 6",
       "type": "vless",
-      "server": "workers.cloudflare.cyou",
+      "server": "47.242.234.127",
+      "server_port": 2083,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.aliyun.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇭🇰 HK 7",
+      "type": "vless",
+      "server": "8.217.145.40",
+      "server_port": 2087,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.aliyun.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇭🇰 HK 8",
+      "type": "vless",
+      "server": "8.210.3.24",
+      "server_port": 8443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.aliyun.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇯🇵 JP",
+      "type": "vless",
+      "server": "47.74.22.213",
+      "server_port": 2087,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.jp.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇯🇵 JP 2",
+      "type": "vless",
+      "server": "47.91.17.97",
       "server_port": 2053,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1775,181 +1194,23 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.jp.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2096,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
+          "Host": "TG.CMLiussss.dns.army"
         }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "🇯🇵 JP 3",
       "type": "vless",
-      "server": "cdn.xn--b6gac.eu.org",
-      "server_port": 2096,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096 2",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2096,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096-cdn-all.xn--b6gac.eu.org-EDtunnel",
-      "type": "vless",
-      "server": "cdn-all.xn--b6gac.eu.org",
-      "server_port": 2096,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096 3",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2096,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2096-workers.cloudflare.cyou-EDtunnel",
-      "type": "vless",
-      "server": "workers.cloudflare.cyou",
-      "server_port": 2096,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
+      "server": "47.74.15.80",
       "server_port": 2087,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1957,25 +1218,23 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.jp.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+          "Host": "TG.CMLiussss.dns.army"
+        }
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "🇯🇵 JP 4",
       "type": "vless",
-      "server": "cdn.xn--b6gac.eu.org",
-      "server_port": 2087,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "server": "47.91.21.107",
+      "server_port": 8443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -1983,129 +1242,23 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.jp.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087 2",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2087,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
+          "Host": "TG.CMLiussss.dns.army"
         }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "tag": "🇯🇵 JP 5",
       "type": "vless",
-      "server": "cdn-all.xn--b6gac.eu.org",
-      "server_port": 2087,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087 3",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2087,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2087-workers.cloudflare.cyou-EDtunnel",
-      "type": "vless",
-      "server": "workers.cloudflare.cyou",
-      "server_port": 2087,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
-      "packet_encoding": "xudp",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083",
-      "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
+      "server": "47.91.17.97",
       "server_port": 2083,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -2113,25 +1266,23 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.jp.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+          "Host": "TG.CMLiussss.dns.army"
+        }
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn.xn--b6gac.eu.org-EDtunnel",
+      "tag": "🇯🇵 JP 6",
       "type": "vless",
-      "server": "cdn.xn--b6gac.eu.org",
-      "server_port": 2083,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "server": "136.0.11.236",
+      "server_port": 34237,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -2139,25 +1290,23 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.jp.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+          "Host": "TG.CMLiussss.dns.army"
+        }
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083 2",
+      "tag": "🇯🇵 JP 7",
       "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2083,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "server": "47.74.22.213",
+      "server_port": 2053,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -2165,25 +1314,23 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.jp.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+          "Host": "TG.CMLiussss.dns.army"
+        }
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083-cdn-all.xn--b6gac.eu.org-EDtunnel",
+      "tag": "🇯🇵 JP 8",
       "type": "vless",
-      "server": "cdn-all.xn--b6gac.eu.org",
-      "server_port": 2083,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "server": "8.209.214.222",
+      "server_port": 2096,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -2191,25 +1338,23 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.jp.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+          "Host": "TG.CMLiussss.dns.army"
+        }
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083 3",
+      "tag": "🇯🇵 JP 9",
       "type": "vless",
-      "server": "ws.yuanwangokk.dynv6.net",
-      "server_port": 2083,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "server": "45.66.131.98",
+      "server_port": 2000,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -2217,25 +1362,23 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.jp.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+          "Host": "TG.CMLiussss.dns.army"
+        }
       }
     },
     {
-      "tag": "ws.yuanwangokk.dynv6.net-HTTPS-2083-workers.cloudflare.cyou-EDtunnel",
+      "tag": "🇯🇵 JP 10",
       "type": "vless",
-      "server": "workers.cloudflare.cyou",
-      "server_port": 2083,
-      "uuid": "73b6dbd5-a27a-4c76-9ad1-42a82380dddb",
+      "server": "168.138.41.255",
+      "server_port": 4434,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "ws.yuanwangokk.dynv6.net",
+        "server_name": "TG.CMLiussss.dns.army",
         "utls": {
           "enabled": true,
           "fingerprint": "random"
@@ -2243,12 +1386,682 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/",
+        "path": "/proxyIP=proxyip.jp.fxxk.dedyn.io",
         "headers": {
-          "Host": "ws.yuanwangokk.dynv6.net"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇸🇬 SG 3",
+      "type": "vless",
+      "server": "47.236.30.67",
+      "server_port": 29969,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.sg.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇸🇬 SG 4",
+      "type": "vless",
+      "server": "8.219.97.169",
+      "server_port": 35212,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.sg.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇭🇰 HK 9",
+      "type": "vless",
+      "server": "8.210.203.171",
+      "server_port": 34237,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.aliyun.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇭🇰 HK 10",
+      "type": "vless",
+      "server": "8.210.208.134",
+      "server_port": 34237,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.aliyun.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇰🇷 KR 2",
+      "type": "vless",
+      "server": "146.56.157.81",
+      "server_port": 34237,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.kr.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇰🇷 KR 3",
+      "type": "vless",
+      "server": "182.226.9.83",
+      "server_port": 50028,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.kr.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇰🇷 KR 4",
+      "type": "vless",
+      "server": "58.237.99.95",
+      "server_port": 39357,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.kr.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇰🇷 KR 5",
+      "type": "vless",
+      "server": "61.43.117.134",
+      "server_port": 30002,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.kr.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸 US 8",
+      "type": "vless",
+      "server": "174.136.206.70",
+      "server_port": 39880,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.us.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸 US 9",
+      "type": "vless",
+      "server": "148.135.22.235",
+      "server_port": 20150,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.us.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸 US 10",
+      "type": "vless",
+      "server": "52.53.247.43",
+      "server_port": 80,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.us.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇺🇸 US 11",
+      "type": "vless",
+      "server": "173.249.199.44",
+      "server_port": 2001,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.us.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "CT",
+      "type": "vless",
+      "server": "45.159.217.124",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "CT 2",
+      "type": "vless",
+      "server": "45.85.118.155",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "CT 3",
+      "type": "vless",
+      "server": "147.78.140.66",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "CT 4",
+      "type": "vless",
+      "server": "45.94.169.59",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "CT 5",
+      "type": "vless",
+      "server": "205.233.181.6",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "CT 6",
+      "type": "vless",
+      "server": "195.137.167.251",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "CT 7",
+      "type": "vless",
+      "server": "45.159.219.234",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "CT 8",
+      "type": "vless",
+      "server": "45.94.169.100",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇲🇨 CMCC-IPV6",
+      "type": "vless",
+      "server": "2606:4700:3036:8517:8207:9c53:a26c:75c7",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇲🇨 CMCC-IPV6 2",
+      "type": "vless",
+      "server": "2606:4700:3036:c1ed:ea19:67e2:7532:802c",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇲🇨 CMCC-IPV6 3",
+      "type": "vless",
+      "server": "2606:4700:3036:c170:8066:bef0:9580:fa1c",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇲🇨 CMCC-IPV6 4",
+      "type": "vless",
+      "server": "2606:4700:3036:c170:8051:5bbe:c8eb:1d3",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇲🇨 CMCC-IPV6 5",
+      "type": "vless",
+      "server": "2606:4700:3036:c170:2572:ee92:19d5:892",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇲🇨 CMCC-IPV6 6",
+      "type": "vless",
+      "server": "2606:4700:3036:c1ed:ea19:e37:c228:5d2",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇲🇨 CMCC-IPV6 7",
+      "type": "vless",
+      "server": "2606:4700:3036:0:d2:f4fa:8b15:c415",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
+      }
+    },
+    {
+      "tag": "🇲🇨 CMCC-IPV6 8",
+      "type": "vless",
+      "server": "2606:4700:3036:8517:826c:87ba:ce36:2c4d",
+      "server_port": 443,
+      "uuid": "b7a392e2-4ef0-4496-90bc-1c37bb234904",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "TG.CMLiussss.dns.army",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/proxyIP=proxyip.oracle.fxxk.dedyn.io",
+        "headers": {
+          "Host": "TG.CMLiussss.dns.army"
+        }
       }
     }
   ],

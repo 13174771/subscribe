@@ -17,23 +17,22 @@ dns:
 proxies:
   - {name: 🇸🇬 由Moist_R提供更新, server: 154.197.121.253, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
   - {name: 关注TG频道@mianfeicf, server: 154.197.121.127, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇭🇰 欢乐时光阿里云-HK, server: 8.210.9.129, port: 2096, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇭🇰 欢乐时光阿里云-HK 2, server: 8.210.3.24, port: 2053, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇭🇰 欢乐时光阿里云-HK 3, server: 47.242.234.127, port: 2087, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇭🇰 欢乐时光阿里云-HK 4, server: 8.217.145.40, port: 2083, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇭🇰 欢乐时光阿里云-HK 5, server: 47.76.32.108, port: 2096, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇭🇰 欢乐时光阿里云-HK 6, server: 8.218.204.128, port: 2053, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇭🇰 欢乐时光阿里云-HK 7, server: 8.218.22.210, port: 2096, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇭🇰 欢乐时光阿里云-HK 8, server: 47.243.203.119, port: 2096, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇭🇰 欢乐时光阿里云-HK 9, server: 8.218.126.53, port: 2087, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇭🇰 欢乐时光阿里云-HK 10, server: 8.210.156.6, port: 2083, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇭🇰 欢乐时光阿里云-HK 11, server: 47.243.162.49, port: 2096, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇭🇰 欢乐时光阿里云-HK 12, server: 8.210.146.108, port: 8443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇭🇰 欢乐时光阿里云-HK 13, server: 8.218.3.12, port: 2053, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇭🇰 欢乐时光阿里云-HK 14, server: 8.218.119.115, port: 2083, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇭🇰 欢乐时光阿里云-HK 15, server: 8.217.85.14, port: 2087, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇭🇰 欢乐时光阿里云-HK 16, server: 47.76.37.57, port: 8443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇭🇰 欢乐时光阿里云-HK 17, server: 47.245.57.38, port: 2087, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 欢乐时光阿里云-HK, server: 8.210.3.24, port: 2087, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 欢乐时光阿里云-HK 2, server: 47.242.60.161, port: 443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 欢乐时光阿里云-HK 3, server: 47.243.203.119, port: 2053, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 欢乐时光阿里云-HK 4, server: 8.218.18.235, port: 2096, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 欢乐时光阿里云-HK 5, server: 47.243.42.219, port: 8443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 欢乐时光阿里云-HK 6, server: 8.218.22.210, port: 2083, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 欢乐时光阿里云-HK 7, server: 8.217.145.40, port: 2083, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 欢乐时光阿里云-HK 8, server: 8.218.201.73, port: 2087, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 欢乐时光阿里云-HK 9, server: 8.217.159.210, port: 2087, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 欢乐时光阿里云-HK 10, server: 8.210.245.224, port: 2053, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 欢乐时光阿里云-HK 11, server: 47.243.107.148, port: 2096, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 欢乐时光阿里云-HK 12, server: 8.210.55.134, port: 8443, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 欢乐时光阿里云-HK 13, server: 47.76.178.146, port: 2096, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 欢乐时光阿里云-HK 14, server: 8.217.221.165, port: 2083, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 欢乐时光阿里云-HK 15, server: 8.217.85.14, port: 2083, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇭🇰 欢乐时光阿里云-HK 16, server: 8.218.122.55, port: 2096, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
   - {name: 🇸🇬 欢乐时光阿里云-SG, server: 8.222.145.110, port: 2053, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
   - {name: 🇸🇬 欢乐时光阿里云-SG 2, server: 8.222.154.50, port: 2053, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
   - {name: 🇸🇬 欢乐时光阿里云-SG 3, server: 8.222.150.197, port: 2053, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
@@ -53,12 +52,12 @@ proxies:
   - {name: 🇰🇷 欢乐时光SKT-KR 7, server: 59.9.19.13, port: 10195, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
   - {name: 🇰🇷 欢乐时光SKT-KR 8, server: 121.124.88.219, port: 14429, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
   - {name: 🇰🇷 欢乐时光SKT-KR 9, server: 121.185.177.21, port: 10196, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇰🇷 欢乐时光Oacle-KR, server: 152.70.232.173, port: 28756, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇰🇷 欢乐时光Oacle-KR 2, server: 132.226.228.151, port: 30843, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇰🇷 欢乐时光Oacle-KR 3, server: 193.122.112.161, port: 10003, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇰🇷 欢乐时光Oacle-KR 4, server: 146.56.141.168, port: 47590, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇰🇷 欢乐时光Oacle-KR 5, server: 146.56.139.40, port: 45139, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
-  - {name: 🇹🇼 欢乐时光华电-TW, server: 43.207.156.148, port: 2086, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇰🇷 欢乐时光Oacle-KR, server: 129.154.205.12, port: 34237, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇰🇷 欢乐时光Oacle-KR 2, server: 132.226.235.126, port: 59408, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇰🇷 欢乐时光Oacle-KR 3, server: 140.238.19.251, port: 10261, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇰🇷 欢乐时光Oacle-KR 4, server: 146.56.145.38, port: 50001, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇰🇷 欢乐时光Oacle-KR 5, server: 129.154.218.159, port: 28082, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
+  - {name: 🇹🇼 欢乐时光华电-TW, server: 211.72.156.10, port: 23555, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
   - {name: 🇹🇼 欢乐时光华电-TW 2, server: 118.163.128.81, port: 13688, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
   - {name: 🇹🇼 欢乐时光华电-TW 3, server: 60.248.63.88, port: 36697, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
   - {name: 🇯🇵 欢乐时光Oacle-JP, server: 132.226.168.199, port: 18421, client-fingerprint: random, type: vless, uuid: 73b6dbd5-a27a-4c76-9ad1-42a82380dddb, tls: true, tfo: false, skip-cert-verify: false, servername: vless.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vless.arises.dynv6.net}}, udp: true}
@@ -150,7 +149,6 @@ proxy-groups:
       - 🇭🇰 欢乐时光阿里云-HK 14
       - 🇭🇰 欢乐时光阿里云-HK 15
       - 🇭🇰 欢乐时光阿里云-HK 16
-      - 🇭🇰 欢乐时光阿里云-HK 17
       - 🇸🇬 欢乐时光阿里云-SG
       - 🇸🇬 欢乐时光阿里云-SG 2
       - 🇸🇬 欢乐时光阿里云-SG 3
@@ -266,7 +264,6 @@ proxy-groups:
       - 🇭🇰 欢乐时光阿里云-HK 14
       - 🇭🇰 欢乐时光阿里云-HK 15
       - 🇭🇰 欢乐时光阿里云-HK 16
-      - 🇭🇰 欢乐时光阿里云-HK 17
       - 🇸🇬 欢乐时光阿里云-SG
       - 🇸🇬 欢乐时光阿里云-SG 2
       - 🇸🇬 欢乐时光阿里云-SG 3
@@ -383,7 +380,6 @@ proxy-groups:
       - 🇭🇰 欢乐时光阿里云-HK 14
       - 🇭🇰 欢乐时光阿里云-HK 15
       - 🇭🇰 欢乐时光阿里云-HK 16
-      - 🇭🇰 欢乐时光阿里云-HK 17
       - 🇸🇬 欢乐时光阿里云-SG
       - 🇸🇬 欢乐时光阿里云-SG 2
       - 🇸🇬 欢乐时光阿里云-SG 3
@@ -512,7 +508,6 @@ proxy-groups:
       - 🇭🇰 欢乐时光阿里云-HK 14
       - 🇭🇰 欢乐时光阿里云-HK 15
       - 🇭🇰 欢乐时光阿里云-HK 16
-      - 🇭🇰 欢乐时光阿里云-HK 17
       - 🇸🇬 欢乐时光阿里云-SG
       - 🇸🇬 欢乐时光阿里云-SG 2
       - 🇸🇬 欢乐时光阿里云-SG 3
@@ -633,7 +628,6 @@ proxy-groups:
       - 🇭🇰 欢乐时光阿里云-HK 14
       - 🇭🇰 欢乐时光阿里云-HK 15
       - 🇭🇰 欢乐时光阿里云-HK 16
-      - 🇭🇰 欢乐时光阿里云-HK 17
       - 🇸🇬 欢乐时光阿里云-SG
       - 🇸🇬 欢乐时光阿里云-SG 2
       - 🇸🇬 欢乐时光阿里云-SG 3
@@ -749,7 +743,6 @@ proxy-groups:
       - 🇭🇰 欢乐时光阿里云-HK 14
       - 🇭🇰 欢乐时光阿里云-HK 15
       - 🇭🇰 欢乐时光阿里云-HK 16
-      - 🇭🇰 欢乐时光阿里云-HK 17
       - 🇸🇬 欢乐时光阿里云-SG
       - 🇸🇬 欢乐时光阿里云-SG 2
       - 🇸🇬 欢乐时光阿里云-SG 3
@@ -866,7 +859,6 @@ proxy-groups:
       - 🇭🇰 欢乐时光阿里云-HK 14
       - 🇭🇰 欢乐时光阿里云-HK 15
       - 🇭🇰 欢乐时光阿里云-HK 16
-      - 🇭🇰 欢乐时光阿里云-HK 17
       - 🇸🇬 欢乐时光阿里云-SG
       - 🇸🇬 欢乐时光阿里云-SG 2
       - 🇸🇬 欢乐时光阿里云-SG 3
@@ -992,7 +984,6 @@ proxy-groups:
       - 🇭🇰 欢乐时光阿里云-HK 14
       - 🇭🇰 欢乐时光阿里云-HK 15
       - 🇭🇰 欢乐时光阿里云-HK 16
-      - 🇭🇰 欢乐时光阿里云-HK 17
       - 🇸🇬 欢乐时光阿里云-SG
       - 🇸🇬 欢乐时光阿里云-SG 2
       - 🇸🇬 欢乐时光阿里云-SG 3

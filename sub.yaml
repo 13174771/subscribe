@@ -15,8 +15,8 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {name: t.arises.dynv6.net, server: cfip.cfcdn.vip, port: 8443, client-fingerprint: random, type: trojan, password: youtube, sni: t.arises.dynv6.net, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: t.arises.dynv6.net}}}
-  - {name: v.arises.dynv6.net, server: cfip.cfcdn.vip, port: 8443, client-fingerprint: random, type: vless, uuid: 9e90a900-ef55-4b6f-bf12-44a846240924, tls: true, tfo: false, skip-cert-verify: false, servername: v.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v.arises.dynv6.net}}}
+  - {name: t.arises.dynv6.net, server: www.visa.com.sg, port: 8443, client-fingerprint: random, type: trojan, password: youtube, sni: t.arises.dynv6.net, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: t.arises.dynv6.net}}}
+  - {name: v.arises.dynv6.net, server: www.visa.com.sg, port: 8443, client-fingerprint: random, type: vless, uuid: 9e90a900-ef55-4b6f-bf12-44a846240924, tls: true, tfo: false, skip-cert-verify: false, servername: v.arises.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v.arises.dynv6.net}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
